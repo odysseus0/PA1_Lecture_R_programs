@@ -1,0 +1,1153 @@
+"","Day","Time","TrafficControl","Road","Light","Weather","Weight","Count"
+"1","Weekday","Night","No Control","Dry","Daylight","Clear",5,444
+"2","Weekend","Night","No Control","Dry","Daylight","Clear",2,246
+"3","Weekday","Morning","No Control","Dry","Daylight","Clear",5,4147
+"4","Weekend","Morning","No Control","Dry","Daylight","Clear",2,951
+"5","Weekday","Midday","No Control","Dry","Daylight","Clear",5,5693
+"6","Weekend","Midday","No Control","Dry","Daylight","Clear",2,2193
+"7","Weekday","Evening","No Control","Dry","Daylight","Clear",5,3981
+"8","Weekend","Evening","No Control","Dry","Daylight","Clear",2,1210
+"9","Weekday","Night","Control","Dry","Daylight","Clear",5,239
+"10","Weekend","Night","Control","Dry","Daylight","Clear",2,121
+"11","Weekday","Morning","Control","Dry","Daylight","Clear",5,4651
+"12","Weekend","Morning","Control","Dry","Daylight","Clear",2,873
+"13","Weekday","Midday","Control","Dry","Daylight","Clear",5,5732
+"14","Weekend","Midday","Control","Dry","Daylight","Clear",2,2018
+"15","Weekday","Evening","Control","Dry","Daylight","Clear",5,3786
+"16","Weekend","Evening","Control","Dry","Daylight","Clear",2,1058
+"17","Weekday","Night","Unknown","Dry","Daylight","Clear",5,6
+"18","Weekend","Night","Unknown","Dry","Daylight","Clear",2,11
+"19","Weekday","Morning","Unknown","Dry","Daylight","Clear",5,71
+"20","Weekend","Morning","Unknown","Dry","Daylight","Clear",2,18
+"21","Weekday","Midday","Unknown","Dry","Daylight","Clear",5,175
+"22","Weekend","Midday","Unknown","Dry","Daylight","Clear",2,66
+"23","Weekday","Evening","Unknown","Dry","Daylight","Clear",5,119
+"24","Weekend","Evening","Unknown","Dry","Daylight","Clear",2,46
+"25","Weekday","Night","No Control","Wet","Daylight","Clear",5,49
+"26","Weekend","Night","No Control","Wet","Daylight","Clear",2,11
+"27","Weekday","Morning","No Control","Wet","Daylight","Clear",5,764
+"28","Weekend","Morning","No Control","Wet","Daylight","Clear",2,119
+"29","Weekday","Midday","No Control","Wet","Daylight","Clear",5,607
+"30","Weekend","Midday","No Control","Wet","Daylight","Clear",2,194
+"31","Weekday","Evening","No Control","Wet","Daylight","Clear",5,191
+"32","Weekend","Evening","No Control","Wet","Daylight","Clear",2,55
+"33","Weekday","Night","Control","Wet","Daylight","Clear",5,22
+"34","Weekend","Night","Control","Wet","Daylight","Clear",2,9
+"35","Weekday","Morning","Control","Wet","Daylight","Clear",5,767
+"36","Weekend","Morning","Control","Wet","Daylight","Clear",2,111
+"37","Weekday","Midday","Control","Wet","Daylight","Clear",5,494
+"38","Weekend","Midday","Control","Wet","Daylight","Clear",2,143
+"39","Weekday","Evening","Control","Wet","Daylight","Clear",5,152
+"40","Weekend","Evening","Control","Wet","Daylight","Clear",2,50
+"41","Weekday","Night","Unknown","Wet","Daylight","Clear",5,3
+"42","Weekend","Night","Unknown","Wet","Daylight","Clear",2,0
+"43","Weekday","Morning","Unknown","Wet","Daylight","Clear",5,22
+"44","Weekend","Morning","Unknown","Wet","Daylight","Clear",2,3
+"45","Weekday","Midday","Unknown","Wet","Daylight","Clear",5,17
+"46","Weekend","Midday","Unknown","Wet","Daylight","Clear",2,2
+"47","Weekday","Evening","Unknown","Wet","Daylight","Clear",5,5
+"48","Weekend","Evening","Unknown","Wet","Daylight","Clear",2,1
+"49","Weekday","Night","No Control","Other","Daylight","Clear",5,22
+"50","Weekend","Night","No Control","Other","Daylight","Clear",2,10
+"51","Weekday","Morning","No Control","Other","Daylight","Clear",5,157
+"52","Weekend","Morning","No Control","Other","Daylight","Clear",2,40
+"53","Weekday","Midday","No Control","Other","Daylight","Clear",5,280
+"54","Weekend","Midday","No Control","Other","Daylight","Clear",2,101
+"55","Weekday","Evening","No Control","Other","Daylight","Clear",5,172
+"56","Weekend","Evening","No Control","Other","Daylight","Clear",2,46
+"57","Weekday","Night","Control","Other","Daylight","Clear",5,7
+"58","Weekend","Night","Control","Other","Daylight","Clear",2,7
+"59","Weekday","Morning","Control","Other","Daylight","Clear",5,99
+"60","Weekend","Morning","Control","Other","Daylight","Clear",2,16
+"61","Weekday","Midday","Control","Other","Daylight","Clear",5,201
+"62","Weekend","Midday","Control","Other","Daylight","Clear",2,73
+"63","Weekday","Evening","Control","Other","Daylight","Clear",5,114
+"64","Weekend","Evening","Control","Other","Daylight","Clear",2,28
+"65","Weekday","Night","Unknown","Other","Daylight","Clear",5,1
+"66","Weekend","Night","Unknown","Other","Daylight","Clear",2,1
+"67","Weekday","Morning","Unknown","Other","Daylight","Clear",5,11
+"68","Weekend","Morning","Unknown","Other","Daylight","Clear",2,5
+"69","Weekday","Midday","Unknown","Other","Daylight","Clear",5,39
+"70","Weekend","Midday","Unknown","Other","Daylight","Clear",2,19
+"71","Weekday","Evening","Unknown","Other","Daylight","Clear",5,30
+"72","Weekend","Evening","Unknown","Other","Daylight","Clear",2,2
+"73","Weekday","Night","No Control","Dry","Dawn/Dusk","Clear",5,96
+"74","Weekend","Night","No Control","Dry","Dawn/Dusk","Clear",2,107
+"75","Weekday","Morning","No Control","Dry","Dawn/Dusk","Clear",5,109
+"76","Weekend","Morning","No Control","Dry","Dawn/Dusk","Clear",2,51
+"77","Weekday","Midday","No Control","Dry","Dawn/Dusk","Clear",5,34
+"78","Weekend","Midday","No Control","Dry","Dawn/Dusk","Clear",2,18
+"79","Weekday","Evening","No Control","Dry","Dawn/Dusk","Clear",5,480
+"80","Weekend","Evening","No Control","Dry","Dawn/Dusk","Clear",2,155
+"81","Weekday","Night","Control","Dry","Dawn/Dusk","Clear",5,65
+"82","Weekend","Night","Control","Dry","Dawn/Dusk","Clear",2,56
+"83","Weekday","Morning","Control","Dry","Dawn/Dusk","Clear",5,101
+"84","Weekend","Morning","Control","Dry","Dawn/Dusk","Clear",2,25
+"85","Weekday","Midday","Control","Dry","Dawn/Dusk","Clear",5,16
+"86","Weekend","Midday","Control","Dry","Dawn/Dusk","Clear",2,6
+"87","Weekday","Evening","Control","Dry","Dawn/Dusk","Clear",5,405
+"88","Weekend","Evening","Control","Dry","Dawn/Dusk","Clear",2,141
+"89","Weekday","Night","Unknown","Dry","Dawn/Dusk","Clear",5,5
+"90","Weekend","Night","Unknown","Dry","Dawn/Dusk","Clear",2,7
+"91","Weekday","Morning","Unknown","Dry","Dawn/Dusk","Clear",5,2
+"92","Weekend","Morning","Unknown","Dry","Dawn/Dusk","Clear",2,3
+"93","Weekday","Midday","Unknown","Dry","Dawn/Dusk","Clear",5,1
+"94","Weekend","Midday","Unknown","Dry","Dawn/Dusk","Clear",2,1
+"95","Weekday","Evening","Unknown","Dry","Dawn/Dusk","Clear",5,26
+"96","Weekend","Evening","Unknown","Dry","Dawn/Dusk","Clear",2,3
+"97","Weekday","Night","No Control","Wet","Dawn/Dusk","Clear",5,14
+"98","Weekend","Night","No Control","Wet","Dawn/Dusk","Clear",2,6
+"99","Weekday","Morning","No Control","Wet","Dawn/Dusk","Clear",5,22
+"100","Weekend","Morning","No Control","Wet","Dawn/Dusk","Clear",2,7
+"101","Weekday","Midday","No Control","Wet","Dawn/Dusk","Clear",5,2
+"102","Weekend","Midday","No Control","Wet","Dawn/Dusk","Clear",2,3
+"103","Weekday","Evening","No Control","Wet","Dawn/Dusk","Clear",5,58
+"104","Weekend","Evening","No Control","Wet","Dawn/Dusk","Clear",2,12
+"105","Weekday","Night","Control","Wet","Dawn/Dusk","Clear",5,12
+"106","Weekend","Night","Control","Wet","Dawn/Dusk","Clear",2,7
+"107","Weekday","Morning","Control","Wet","Dawn/Dusk","Clear",5,21
+"108","Weekend","Morning","Control","Wet","Dawn/Dusk","Clear",2,8
+"109","Weekday","Midday","Control","Wet","Dawn/Dusk","Clear",5,2
+"110","Weekend","Midday","Control","Wet","Dawn/Dusk","Clear",2,0
+"111","Weekday","Evening","Control","Wet","Dawn/Dusk","Clear",5,46
+"112","Weekend","Evening","Control","Wet","Dawn/Dusk","Clear",2,9
+"113","Weekday","Night","Unknown","Wet","Dawn/Dusk","Clear",5,0
+"114","Weekend","Night","Unknown","Wet","Dawn/Dusk","Clear",2,0
+"115","Weekday","Morning","Unknown","Wet","Dawn/Dusk","Clear",5,0
+"116","Weekend","Morning","Unknown","Wet","Dawn/Dusk","Clear",2,0
+"117","Weekday","Midday","Unknown","Wet","Dawn/Dusk","Clear",5,0
+"118","Weekend","Midday","Unknown","Wet","Dawn/Dusk","Clear",2,0
+"119","Weekday","Evening","Unknown","Wet","Dawn/Dusk","Clear",5,2
+"120","Weekend","Evening","Unknown","Wet","Dawn/Dusk","Clear",2,1
+"121","Weekday","Night","No Control","Other","Dawn/Dusk","Clear",5,1
+"122","Weekend","Night","No Control","Other","Dawn/Dusk","Clear",2,3
+"123","Weekday","Morning","No Control","Other","Dawn/Dusk","Clear",5,6
+"124","Weekend","Morning","No Control","Other","Dawn/Dusk","Clear",2,4
+"125","Weekday","Midday","No Control","Other","Dawn/Dusk","Clear",5,2
+"126","Weekend","Midday","No Control","Other","Dawn/Dusk","Clear",2,0
+"127","Weekday","Evening","No Control","Other","Dawn/Dusk","Clear",5,19
+"128","Weekend","Evening","No Control","Other","Dawn/Dusk","Clear",2,8
+"129","Weekday","Night","Control","Other","Dawn/Dusk","Clear",5,5
+"130","Weekend","Night","Control","Other","Dawn/Dusk","Clear",2,2
+"131","Weekday","Morning","Control","Other","Dawn/Dusk","Clear",5,2
+"132","Weekend","Morning","Control","Other","Dawn/Dusk","Clear",2,1
+"133","Weekday","Midday","Control","Other","Dawn/Dusk","Clear",5,2
+"134","Weekend","Midday","Control","Other","Dawn/Dusk","Clear",2,0
+"135","Weekday","Evening","Control","Other","Dawn/Dusk","Clear",5,16
+"136","Weekend","Evening","Control","Other","Dawn/Dusk","Clear",2,4
+"137","Weekday","Night","Unknown","Other","Dawn/Dusk","Clear",5,0
+"138","Weekend","Night","Unknown","Other","Dawn/Dusk","Clear",2,1
+"139","Weekday","Morning","Unknown","Other","Dawn/Dusk","Clear",5,0
+"140","Weekend","Morning","Unknown","Other","Dawn/Dusk","Clear",2,0
+"141","Weekday","Midday","Unknown","Other","Dawn/Dusk","Clear",5,0
+"142","Weekend","Midday","Unknown","Other","Dawn/Dusk","Clear",2,0
+"143","Weekday","Evening","Unknown","Other","Dawn/Dusk","Clear",5,3
+"144","Weekend","Evening","Unknown","Other","Dawn/Dusk","Clear",2,1
+"145","Weekday","Night","No Control","Dry","Dark","Clear",5,2473
+"146","Weekend","Night","No Control","Dry","Dark","Clear",2,2199
+"147","Weekday","Morning","No Control","Dry","Dark","Clear",5,183
+"148","Weekend","Morning","No Control","Dry","Dark","Clear",2,102
+"149","Weekday","Midday","No Control","Dry","Dark","Clear",5,99
+"150","Weekend","Midday","No Control","Dry","Dark","Clear",2,98
+"151","Weekday","Evening","No Control","Dry","Dark","Clear",5,1619
+"152","Weekend","Evening","No Control","Dry","Dark","Clear",2,606
+"153","Weekday","Night","Control","Dry","Dark","Clear",5,2375
+"154","Weekend","Night","Control","Dry","Dark","Clear",2,2026
+"155","Weekday","Morning","Control","Dry","Dark","Clear",5,154
+"156","Weekend","Morning","Control","Dry","Dark","Clear",2,42
+"157","Weekday","Midday","Control","Dry","Dark","Clear",5,76
+"158","Weekend","Midday","Control","Dry","Dark","Clear",2,41
+"159","Weekday","Evening","Control","Dry","Dark","Clear",5,1887
+"160","Weekend","Evening","Control","Dry","Dark","Clear",2,639
+"161","Weekday","Night","Unknown","Dry","Dark","Clear",5,98
+"162","Weekend","Night","Unknown","Dry","Dark","Clear",2,89
+"163","Weekday","Morning","Unknown","Dry","Dark","Clear",5,4
+"164","Weekend","Morning","Unknown","Dry","Dark","Clear",2,2
+"165","Weekday","Midday","Unknown","Dry","Dark","Clear",5,4
+"166","Weekend","Midday","Unknown","Dry","Dark","Clear",2,0
+"167","Weekday","Evening","Unknown","Dry","Dark","Clear",5,58
+"168","Weekend","Evening","Unknown","Dry","Dark","Clear",2,31
+"169","Weekday","Night","No Control","Wet","Dark","Clear",5,289
+"170","Weekend","Night","No Control","Wet","Dark","Clear",2,227
+"171","Weekday","Morning","No Control","Wet","Dark","Clear",5,42
+"172","Weekend","Morning","No Control","Wet","Dark","Clear",2,14
+"173","Weekday","Midday","No Control","Wet","Dark","Clear",5,11
+"174","Weekend","Midday","No Control","Wet","Dark","Clear",2,8
+"175","Weekday","Evening","No Control","Wet","Dark","Clear",5,297
+"176","Weekend","Evening","No Control","Wet","Dark","Clear",2,103
+"177","Weekday","Night","Control","Wet","Dark","Clear",5,297
+"178","Weekend","Night","Control","Wet","Dark","Clear",2,187
+"179","Weekday","Morning","Control","Wet","Dark","Clear",5,41
+"180","Weekend","Morning","Control","Wet","Dark","Clear",2,10
+"181","Weekday","Midday","Control","Wet","Dark","Clear",5,12
+"182","Weekend","Midday","Control","Wet","Dark","Clear",2,2
+"183","Weekday","Evening","Control","Wet","Dark","Clear",5,272
+"184","Weekend","Evening","Control","Wet","Dark","Clear",2,71
+"185","Weekday","Night","Unknown","Wet","Dark","Clear",5,10
+"186","Weekend","Night","Unknown","Wet","Dark","Clear",2,8
+"187","Weekday","Morning","Unknown","Wet","Dark","Clear",5,2
+"188","Weekend","Morning","Unknown","Wet","Dark","Clear",2,0
+"189","Weekday","Midday","Unknown","Wet","Dark","Clear",5,0
+"190","Weekend","Midday","Unknown","Wet","Dark","Clear",2,0
+"191","Weekday","Evening","Unknown","Wet","Dark","Clear",5,8
+"192","Weekend","Evening","Unknown","Wet","Dark","Clear",2,1
+"193","Weekday","Night","No Control","Other","Dark","Clear",5,93
+"194","Weekend","Night","No Control","Other","Dark","Clear",2,85
+"195","Weekday","Morning","No Control","Other","Dark","Clear",5,7
+"196","Weekend","Morning","No Control","Other","Dark","Clear",2,1
+"197","Weekday","Midday","No Control","Other","Dark","Clear",5,6
+"198","Weekend","Midday","No Control","Other","Dark","Clear",2,5
+"199","Weekday","Evening","No Control","Other","Dark","Clear",5,91
+"200","Weekend","Evening","No Control","Other","Dark","Clear",2,21
+"201","Weekday","Night","Control","Other","Dark","Clear",5,54
+"202","Weekend","Night","Control","Other","Dark","Clear",2,40
+"203","Weekday","Morning","Control","Other","Dark","Clear",5,2
+"204","Weekend","Morning","Control","Other","Dark","Clear",2,0
+"205","Weekday","Midday","Control","Other","Dark","Clear",5,1
+"206","Weekend","Midday","Control","Other","Dark","Clear",2,1
+"207","Weekday","Evening","Control","Other","Dark","Clear",5,63
+"208","Weekend","Evening","Control","Other","Dark","Clear",2,28
+"209","Weekday","Night","Unknown","Other","Dark","Clear",5,14
+"210","Weekend","Night","Unknown","Other","Dark","Clear",2,18
+"211","Weekday","Morning","Unknown","Other","Dark","Clear",5,0
+"212","Weekend","Morning","Unknown","Other","Dark","Clear",2,0
+"213","Weekday","Midday","Unknown","Other","Dark","Clear",5,0
+"214","Weekend","Midday","Unknown","Other","Dark","Clear",2,0
+"215","Weekday","Evening","Unknown","Other","Dark","Clear",5,14
+"216","Weekend","Evening","Unknown","Other","Dark","Clear",2,8
+"217","Weekday","Night","No Control","Dry","Unknown","Clear",5,101
+"218","Weekend","Night","No Control","Dry","Unknown","Clear",2,90
+"219","Weekday","Morning","No Control","Dry","Unknown","Clear",5,164
+"220","Weekend","Morning","No Control","Dry","Unknown","Clear",2,112
+"221","Weekday","Midday","No Control","Dry","Unknown","Clear",5,93
+"222","Weekend","Midday","No Control","Dry","Unknown","Clear",2,71
+"223","Weekday","Evening","No Control","Dry","Unknown","Clear",5,125
+"224","Weekend","Evening","No Control","Dry","Unknown","Clear",2,52
+"225","Weekday","Night","Control","Dry","Unknown","Clear",5,19
+"226","Weekend","Night","Control","Dry","Unknown","Clear",2,19
+"227","Weekday","Morning","Control","Dry","Unknown","Clear",5,33
+"228","Weekend","Morning","Control","Dry","Unknown","Clear",2,5
+"229","Weekday","Midday","Control","Dry","Unknown","Clear",5,34
+"230","Weekend","Midday","Control","Dry","Unknown","Clear",2,10
+"231","Weekday","Evening","Control","Dry","Unknown","Clear",5,38
+"232","Weekend","Evening","Control","Dry","Unknown","Clear",2,10
+"233","Weekday","Night","Unknown","Dry","Unknown","Clear",5,11
+"234","Weekend","Night","Unknown","Dry","Unknown","Clear",2,15
+"235","Weekday","Morning","Unknown","Dry","Unknown","Clear",5,3
+"236","Weekend","Morning","Unknown","Dry","Unknown","Clear",2,7
+"237","Weekday","Midday","Unknown","Dry","Unknown","Clear",5,10
+"238","Weekend","Midday","Unknown","Dry","Unknown","Clear",2,8
+"239","Weekday","Evening","Unknown","Dry","Unknown","Clear",5,18
+"240","Weekend","Evening","Unknown","Dry","Unknown","Clear",2,8
+"241","Weekday","Night","No Control","Wet","Unknown","Clear",5,12
+"242","Weekend","Night","No Control","Wet","Unknown","Clear",2,4
+"243","Weekday","Morning","No Control","Wet","Unknown","Clear",5,20
+"244","Weekend","Morning","No Control","Wet","Unknown","Clear",2,8
+"245","Weekday","Midday","No Control","Wet","Unknown","Clear",5,14
+"246","Weekend","Midday","No Control","Wet","Unknown","Clear",2,7
+"247","Weekday","Evening","No Control","Wet","Unknown","Clear",5,22
+"248","Weekend","Evening","No Control","Wet","Unknown","Clear",2,7
+"249","Weekday","Night","Control","Wet","Unknown","Clear",5,1
+"250","Weekend","Night","Control","Wet","Unknown","Clear",2,1
+"251","Weekday","Morning","Control","Wet","Unknown","Clear",5,8
+"252","Weekend","Morning","Control","Wet","Unknown","Clear",2,0
+"253","Weekday","Midday","Control","Wet","Unknown","Clear",5,2
+"254","Weekend","Midday","Control","Wet","Unknown","Clear",2,0
+"255","Weekday","Evening","Control","Wet","Unknown","Clear",5,4
+"256","Weekend","Evening","Control","Wet","Unknown","Clear",2,0
+"257","Weekday","Night","Unknown","Wet","Unknown","Clear",5,2
+"258","Weekend","Night","Unknown","Wet","Unknown","Clear",2,1
+"259","Weekday","Morning","Unknown","Wet","Unknown","Clear",5,1
+"260","Weekend","Morning","Unknown","Wet","Unknown","Clear",2,0
+"261","Weekday","Midday","Unknown","Wet","Unknown","Clear",5,1
+"262","Weekend","Midday","Unknown","Wet","Unknown","Clear",2,0
+"263","Weekday","Evening","Unknown","Wet","Unknown","Clear",5,2
+"264","Weekend","Evening","Unknown","Wet","Unknown","Clear",2,0
+"265","Weekday","Night","No Control","Other","Unknown","Clear",5,18
+"266","Weekend","Night","No Control","Other","Unknown","Clear",2,15
+"267","Weekday","Morning","No Control","Other","Unknown","Clear",5,20
+"268","Weekend","Morning","No Control","Other","Unknown","Clear",2,6
+"269","Weekday","Midday","No Control","Other","Unknown","Clear",5,15
+"270","Weekend","Midday","No Control","Other","Unknown","Clear",2,10
+"271","Weekday","Evening","No Control","Other","Unknown","Clear",5,25
+"272","Weekend","Evening","No Control","Other","Unknown","Clear",2,11
+"273","Weekday","Night","Control","Other","Unknown","Clear",5,1
+"274","Weekend","Night","Control","Other","Unknown","Clear",2,4
+"275","Weekday","Morning","Control","Other","Unknown","Clear",5,4
+"276","Weekend","Morning","Control","Other","Unknown","Clear",2,1
+"277","Weekday","Midday","Control","Other","Unknown","Clear",5,4
+"278","Weekend","Midday","Control","Other","Unknown","Clear",2,0
+"279","Weekday","Evening","Control","Other","Unknown","Clear",5,4
+"280","Weekend","Evening","Control","Other","Unknown","Clear",2,4
+"281","Weekday","Night","Unknown","Other","Unknown","Clear",5,9
+"282","Weekend","Night","Unknown","Other","Unknown","Clear",2,0
+"283","Weekday","Morning","Unknown","Other","Unknown","Clear",5,2
+"284","Weekend","Morning","Unknown","Other","Unknown","Clear",2,1
+"285","Weekday","Midday","Unknown","Other","Unknown","Clear",5,3
+"286","Weekend","Midday","Unknown","Other","Unknown","Clear",2,1
+"287","Weekday","Evening","Unknown","Other","Unknown","Clear",5,5
+"288","Weekend","Evening","Unknown","Other","Unknown","Clear",2,1
+"289","Weekday","Night","No Control","Dry","Daylight","Rain/Snow",5,1
+"290","Weekend","Night","No Control","Dry","Daylight","Rain/Snow",2,3
+"291","Weekday","Morning","No Control","Dry","Daylight","Rain/Snow",5,48
+"292","Weekend","Morning","No Control","Dry","Daylight","Rain/Snow",2,4
+"293","Weekday","Midday","No Control","Dry","Daylight","Rain/Snow",5,53
+"294","Weekend","Midday","No Control","Dry","Daylight","Rain/Snow",2,15
+"295","Weekday","Evening","No Control","Dry","Daylight","Rain/Snow",5,26
+"296","Weekend","Evening","No Control","Dry","Daylight","Rain/Snow",2,5
+"297","Weekday","Night","Control","Dry","Daylight","Rain/Snow",5,3
+"298","Weekend","Night","Control","Dry","Daylight","Rain/Snow",2,1
+"299","Weekday","Morning","Control","Dry","Daylight","Rain/Snow",5,37
+"300","Weekend","Morning","Control","Dry","Daylight","Rain/Snow",2,4
+"301","Weekday","Midday","Control","Dry","Daylight","Rain/Snow",5,47
+"302","Weekend","Midday","Control","Dry","Daylight","Rain/Snow",2,15
+"303","Weekday","Evening","Control","Dry","Daylight","Rain/Snow",5,21
+"304","Weekend","Evening","Control","Dry","Daylight","Rain/Snow",2,6
+"305","Weekday","Night","Unknown","Dry","Daylight","Rain/Snow",5,0
+"306","Weekend","Night","Unknown","Dry","Daylight","Rain/Snow",2,0
+"307","Weekday","Morning","Unknown","Dry","Daylight","Rain/Snow",5,0
+"308","Weekend","Morning","Unknown","Dry","Daylight","Rain/Snow",2,0
+"309","Weekday","Midday","Unknown","Dry","Daylight","Rain/Snow",5,1
+"310","Weekend","Midday","Unknown","Dry","Daylight","Rain/Snow",2,0
+"311","Weekday","Evening","Unknown","Dry","Daylight","Rain/Snow",5,1
+"312","Weekend","Evening","Unknown","Dry","Daylight","Rain/Snow",2,0
+"313","Weekday","Night","No Control","Wet","Daylight","Rain/Snow",5,61
+"314","Weekend","Night","No Control","Wet","Daylight","Rain/Snow",2,39
+"315","Weekday","Morning","No Control","Wet","Daylight","Rain/Snow",5,938
+"316","Weekend","Morning","No Control","Wet","Daylight","Rain/Snow",2,160
+"317","Weekday","Midday","No Control","Wet","Daylight","Rain/Snow",5,835
+"318","Weekend","Midday","No Control","Wet","Daylight","Rain/Snow",2,323
+"319","Weekday","Evening","No Control","Wet","Daylight","Rain/Snow",5,339
+"320","Weekend","Evening","No Control","Wet","Daylight","Rain/Snow",2,108
+"321","Weekday","Night","Control","Wet","Daylight","Rain/Snow",5,44
+"322","Weekend","Night","Control","Wet","Daylight","Rain/Snow",2,11
+"323","Weekday","Morning","Control","Wet","Daylight","Rain/Snow",5,1185
+"324","Weekend","Morning","Control","Wet","Daylight","Rain/Snow",2,187
+"325","Weekday","Midday","Control","Wet","Daylight","Rain/Snow",5,861
+"326","Weekend","Midday","Control","Wet","Daylight","Rain/Snow",2,330
+"327","Weekday","Evening","Control","Wet","Daylight","Rain/Snow",5,345
+"328","Weekend","Evening","Control","Wet","Daylight","Rain/Snow",2,121
+"329","Weekday","Night","Unknown","Wet","Daylight","Rain/Snow",5,2
+"330","Weekend","Night","Unknown","Wet","Daylight","Rain/Snow",2,2
+"331","Weekday","Morning","Unknown","Wet","Daylight","Rain/Snow",5,26
+"332","Weekend","Morning","Unknown","Wet","Daylight","Rain/Snow",2,7
+"333","Weekday","Midday","Unknown","Wet","Daylight","Rain/Snow",5,25
+"334","Weekend","Midday","Unknown","Wet","Daylight","Rain/Snow",2,18
+"335","Weekday","Evening","Unknown","Wet","Daylight","Rain/Snow",5,13
+"336","Weekend","Evening","Unknown","Wet","Daylight","Rain/Snow",2,7
+"337","Weekday","Night","No Control","Other","Daylight","Rain/Snow",5,2
+"338","Weekend","Night","No Control","Other","Daylight","Rain/Snow",2,0
+"339","Weekday","Morning","No Control","Other","Daylight","Rain/Snow",5,15
+"340","Weekend","Morning","No Control","Other","Daylight","Rain/Snow",2,0
+"341","Weekday","Midday","No Control","Other","Daylight","Rain/Snow",5,18
+"342","Weekend","Midday","No Control","Other","Daylight","Rain/Snow",2,7
+"343","Weekday","Evening","No Control","Other","Daylight","Rain/Snow",5,12
+"344","Weekend","Evening","No Control","Other","Daylight","Rain/Snow",2,0
+"345","Weekday","Night","Control","Other","Daylight","Rain/Snow",5,0
+"346","Weekend","Night","Control","Other","Daylight","Rain/Snow",2,0
+"347","Weekday","Morning","Control","Other","Daylight","Rain/Snow",5,15
+"348","Weekend","Morning","Control","Other","Daylight","Rain/Snow",2,2
+"349","Weekday","Midday","Control","Other","Daylight","Rain/Snow",5,15
+"350","Weekend","Midday","Control","Other","Daylight","Rain/Snow",2,6
+"351","Weekday","Evening","Control","Other","Daylight","Rain/Snow",5,5
+"352","Weekend","Evening","Control","Other","Daylight","Rain/Snow",2,3
+"353","Weekday","Night","Unknown","Other","Daylight","Rain/Snow",5,0
+"354","Weekend","Night","Unknown","Other","Daylight","Rain/Snow",2,0
+"355","Weekday","Morning","Unknown","Other","Daylight","Rain/Snow",5,0
+"356","Weekend","Morning","Unknown","Other","Daylight","Rain/Snow",2,0
+"357","Weekday","Midday","Unknown","Other","Daylight","Rain/Snow",5,4
+"358","Weekend","Midday","Unknown","Other","Daylight","Rain/Snow",2,0
+"359","Weekday","Evening","Unknown","Other","Daylight","Rain/Snow",5,3
+"360","Weekend","Evening","Unknown","Other","Daylight","Rain/Snow",2,1
+"361","Weekday","Night","No Control","Dry","Dawn/Dusk","Rain/Snow",5,3
+"362","Weekend","Night","No Control","Dry","Dawn/Dusk","Rain/Snow",2,1
+"363","Weekday","Morning","No Control","Dry","Dawn/Dusk","Rain/Snow",5,2
+"364","Weekend","Morning","No Control","Dry","Dawn/Dusk","Rain/Snow",2,1
+"365","Weekday","Midday","No Control","Dry","Dawn/Dusk","Rain/Snow",5,3
+"366","Weekend","Midday","No Control","Dry","Dawn/Dusk","Rain/Snow",2,1
+"367","Weekday","Evening","No Control","Dry","Dawn/Dusk","Rain/Snow",5,4
+"368","Weekend","Evening","No Control","Dry","Dawn/Dusk","Rain/Snow",2,0
+"369","Weekday","Night","Control","Dry","Dawn/Dusk","Rain/Snow",5,0
+"370","Weekend","Night","Control","Dry","Dawn/Dusk","Rain/Snow",2,1
+"371","Weekday","Morning","Control","Dry","Dawn/Dusk","Rain/Snow",5,3
+"372","Weekend","Morning","Control","Dry","Dawn/Dusk","Rain/Snow",2,0
+"373","Weekday","Midday","Control","Dry","Dawn/Dusk","Rain/Snow",5,1
+"374","Weekend","Midday","Control","Dry","Dawn/Dusk","Rain/Snow",2,0
+"375","Weekday","Evening","Control","Dry","Dawn/Dusk","Rain/Snow",5,6
+"376","Weekend","Evening","Control","Dry","Dawn/Dusk","Rain/Snow",2,1
+"377","Weekday","Night","Unknown","Dry","Dawn/Dusk","Rain/Snow",5,0
+"378","Weekend","Night","Unknown","Dry","Dawn/Dusk","Rain/Snow",2,0
+"379","Weekday","Morning","Unknown","Dry","Dawn/Dusk","Rain/Snow",5,0
+"380","Weekend","Morning","Unknown","Dry","Dawn/Dusk","Rain/Snow",2,0
+"381","Weekday","Midday","Unknown","Dry","Dawn/Dusk","Rain/Snow",5,0
+"382","Weekend","Midday","Unknown","Dry","Dawn/Dusk","Rain/Snow",2,0
+"383","Weekday","Evening","Unknown","Dry","Dawn/Dusk","Rain/Snow",5,0
+"384","Weekend","Evening","Unknown","Dry","Dawn/Dusk","Rain/Snow",2,0
+"385","Weekday","Night","No Control","Wet","Dawn/Dusk","Rain/Snow",5,31
+"386","Weekend","Night","No Control","Wet","Dawn/Dusk","Rain/Snow",2,17
+"387","Weekday","Morning","No Control","Wet","Dawn/Dusk","Rain/Snow",5,41
+"388","Weekend","Morning","No Control","Wet","Dawn/Dusk","Rain/Snow",2,18
+"389","Weekday","Midday","No Control","Wet","Dawn/Dusk","Rain/Snow",5,14
+"390","Weekend","Midday","No Control","Wet","Dawn/Dusk","Rain/Snow",2,6
+"391","Weekday","Evening","No Control","Wet","Dawn/Dusk","Rain/Snow",5,140
+"392","Weekend","Evening","No Control","Wet","Dawn/Dusk","Rain/Snow",2,35
+"393","Weekday","Night","Control","Wet","Dawn/Dusk","Rain/Snow",5,44
+"394","Weekend","Night","Control","Wet","Dawn/Dusk","Rain/Snow",2,12
+"395","Weekday","Morning","Control","Wet","Dawn/Dusk","Rain/Snow",5,59
+"396","Weekend","Morning","Control","Wet","Dawn/Dusk","Rain/Snow",2,11
+"397","Weekday","Midday","Control","Wet","Dawn/Dusk","Rain/Snow",5,13
+"398","Weekend","Midday","Control","Wet","Dawn/Dusk","Rain/Snow",2,3
+"399","Weekday","Evening","Control","Wet","Dawn/Dusk","Rain/Snow",5,114
+"400","Weekend","Evening","Control","Wet","Dawn/Dusk","Rain/Snow",2,35
+"401","Weekday","Night","Unknown","Wet","Dawn/Dusk","Rain/Snow",5,5
+"402","Weekend","Night","Unknown","Wet","Dawn/Dusk","Rain/Snow",2,1
+"403","Weekday","Morning","Unknown","Wet","Dawn/Dusk","Rain/Snow",5,0
+"404","Weekend","Morning","Unknown","Wet","Dawn/Dusk","Rain/Snow",2,0
+"405","Weekday","Midday","Unknown","Wet","Dawn/Dusk","Rain/Snow",5,0
+"406","Weekend","Midday","Unknown","Wet","Dawn/Dusk","Rain/Snow",2,0
+"407","Weekday","Evening","Unknown","Wet","Dawn/Dusk","Rain/Snow",5,5
+"408","Weekend","Evening","Unknown","Wet","Dawn/Dusk","Rain/Snow",2,4
+"409","Weekday","Night","No Control","Other","Dawn/Dusk","Rain/Snow",5,0
+"410","Weekend","Night","No Control","Other","Dawn/Dusk","Rain/Snow",2,0
+"411","Weekday","Morning","No Control","Other","Dawn/Dusk","Rain/Snow",5,0
+"412","Weekend","Morning","No Control","Other","Dawn/Dusk","Rain/Snow",2,1
+"413","Weekday","Midday","No Control","Other","Dawn/Dusk","Rain/Snow",5,1
+"414","Weekend","Midday","No Control","Other","Dawn/Dusk","Rain/Snow",2,0
+"415","Weekday","Evening","No Control","Other","Dawn/Dusk","Rain/Snow",5,4
+"416","Weekend","Evening","No Control","Other","Dawn/Dusk","Rain/Snow",2,0
+"417","Weekday","Night","Control","Other","Dawn/Dusk","Rain/Snow",5,0
+"418","Weekend","Night","Control","Other","Dawn/Dusk","Rain/Snow",2,0
+"419","Weekday","Morning","Control","Other","Dawn/Dusk","Rain/Snow",5,1
+"420","Weekend","Morning","Control","Other","Dawn/Dusk","Rain/Snow",2,0
+"421","Weekday","Midday","Control","Other","Dawn/Dusk","Rain/Snow",5,0
+"422","Weekend","Midday","Control","Other","Dawn/Dusk","Rain/Snow",2,0
+"423","Weekday","Evening","Control","Other","Dawn/Dusk","Rain/Snow",5,2
+"424","Weekend","Evening","Control","Other","Dawn/Dusk","Rain/Snow",2,1
+"425","Weekday","Night","Unknown","Other","Dawn/Dusk","Rain/Snow",5,0
+"426","Weekend","Night","Unknown","Other","Dawn/Dusk","Rain/Snow",2,0
+"427","Weekday","Morning","Unknown","Other","Dawn/Dusk","Rain/Snow",5,0
+"428","Weekend","Morning","Unknown","Other","Dawn/Dusk","Rain/Snow",2,0
+"429","Weekday","Midday","Unknown","Other","Dawn/Dusk","Rain/Snow",5,0
+"430","Weekend","Midday","Unknown","Other","Dawn/Dusk","Rain/Snow",2,0
+"431","Weekday","Evening","Unknown","Other","Dawn/Dusk","Rain/Snow",5,0
+"432","Weekend","Evening","Unknown","Other","Dawn/Dusk","Rain/Snow",2,0
+"433","Weekday","Night","No Control","Dry","Dark","Rain/Snow",5,37
+"434","Weekend","Night","No Control","Dry","Dark","Rain/Snow",2,23
+"435","Weekday","Morning","No Control","Dry","Dark","Rain/Snow",5,4
+"436","Weekend","Morning","No Control","Dry","Dark","Rain/Snow",2,4
+"437","Weekday","Midday","No Control","Dry","Dark","Rain/Snow",5,4
+"438","Weekend","Midday","No Control","Dry","Dark","Rain/Snow",2,1
+"439","Weekday","Evening","No Control","Dry","Dark","Rain/Snow",5,28
+"440","Weekend","Evening","No Control","Dry","Dark","Rain/Snow",2,10
+"441","Weekday","Night","Control","Dry","Dark","Rain/Snow",5,31
+"442","Weekend","Night","Control","Dry","Dark","Rain/Snow",2,13
+"443","Weekday","Morning","Control","Dry","Dark","Rain/Snow",5,5
+"444","Weekend","Morning","Control","Dry","Dark","Rain/Snow",2,1
+"445","Weekday","Midday","Control","Dry","Dark","Rain/Snow",5,0
+"446","Weekend","Midday","Control","Dry","Dark","Rain/Snow",2,0
+"447","Weekday","Evening","Control","Dry","Dark","Rain/Snow",5,28
+"448","Weekend","Evening","Control","Dry","Dark","Rain/Snow",2,4
+"449","Weekday","Night","Unknown","Dry","Dark","Rain/Snow",5,2
+"450","Weekend","Night","Unknown","Dry","Dark","Rain/Snow",2,1
+"451","Weekday","Morning","Unknown","Dry","Dark","Rain/Snow",5,0
+"452","Weekend","Morning","Unknown","Dry","Dark","Rain/Snow",2,0
+"453","Weekday","Midday","Unknown","Dry","Dark","Rain/Snow",5,0
+"454","Weekend","Midday","Unknown","Dry","Dark","Rain/Snow",2,1
+"455","Weekday","Evening","Unknown","Dry","Dark","Rain/Snow",5,0
+"456","Weekend","Evening","Unknown","Dry","Dark","Rain/Snow",2,0
+"457","Weekday","Night","No Control","Wet","Dark","Rain/Snow",5,722
+"458","Weekend","Night","No Control","Wet","Dark","Rain/Snow",2,486
+"459","Weekday","Morning","No Control","Wet","Dark","Rain/Snow",5,78
+"460","Weekend","Morning","No Control","Wet","Dark","Rain/Snow",2,40
+"461","Weekday","Midday","No Control","Wet","Dark","Rain/Snow",5,45
+"462","Weekend","Midday","No Control","Wet","Dark","Rain/Snow",2,17
+"463","Weekday","Evening","No Control","Wet","Dark","Rain/Snow",5,591
+"464","Weekend","Evening","No Control","Wet","Dark","Rain/Snow",2,206
+"465","Weekday","Night","Control","Wet","Dark","Rain/Snow",5,843
+"466","Weekend","Night","Control","Wet","Dark","Rain/Snow",2,463
+"467","Weekday","Morning","Control","Wet","Dark","Rain/Snow",5,79
+"468","Weekend","Morning","Control","Wet","Dark","Rain/Snow",2,17
+"469","Weekday","Midday","Control","Wet","Dark","Rain/Snow",5,28
+"470","Weekend","Midday","Control","Wet","Dark","Rain/Snow",2,10
+"471","Weekday","Evening","Control","Wet","Dark","Rain/Snow",5,611
+"472","Weekend","Evening","Control","Wet","Dark","Rain/Snow",2,215
+"473","Weekday","Night","Unknown","Wet","Dark","Rain/Snow",5,34
+"474","Weekend","Night","Unknown","Wet","Dark","Rain/Snow",2,22
+"475","Weekday","Morning","Unknown","Wet","Dark","Rain/Snow",5,2
+"476","Weekend","Morning","Unknown","Wet","Dark","Rain/Snow",2,1
+"477","Weekday","Midday","Unknown","Wet","Dark","Rain/Snow",5,0
+"478","Weekend","Midday","Unknown","Wet","Dark","Rain/Snow",2,0
+"479","Weekday","Evening","Unknown","Wet","Dark","Rain/Snow",5,26
+"480","Weekend","Evening","Unknown","Wet","Dark","Rain/Snow",2,11
+"481","Weekday","Night","No Control","Other","Dark","Rain/Snow",5,12
+"482","Weekend","Night","No Control","Other","Dark","Rain/Snow",2,4
+"483","Weekday","Morning","No Control","Other","Dark","Rain/Snow",5,0
+"484","Weekend","Morning","No Control","Other","Dark","Rain/Snow",2,1
+"485","Weekday","Midday","No Control","Other","Dark","Rain/Snow",5,2
+"486","Weekend","Midday","No Control","Other","Dark","Rain/Snow",2,0
+"487","Weekday","Evening","No Control","Other","Dark","Rain/Snow",5,7
+"488","Weekend","Evening","No Control","Other","Dark","Rain/Snow",2,4
+"489","Weekday","Night","Control","Other","Dark","Rain/Snow",5,13
+"490","Weekend","Night","Control","Other","Dark","Rain/Snow",2,7
+"491","Weekday","Morning","Control","Other","Dark","Rain/Snow",5,1
+"492","Weekend","Morning","Control","Other","Dark","Rain/Snow",2,0
+"493","Weekday","Midday","Control","Other","Dark","Rain/Snow",5,1
+"494","Weekend","Midday","Control","Other","Dark","Rain/Snow",2,0
+"495","Weekday","Evening","Control","Other","Dark","Rain/Snow",5,7
+"496","Weekend","Evening","Control","Other","Dark","Rain/Snow",2,6
+"497","Weekday","Night","Unknown","Other","Dark","Rain/Snow",5,2
+"498","Weekend","Night","Unknown","Other","Dark","Rain/Snow",2,1
+"499","Weekday","Morning","Unknown","Other","Dark","Rain/Snow",5,0
+"500","Weekend","Morning","Unknown","Other","Dark","Rain/Snow",2,0
+"501","Weekday","Midday","Unknown","Other","Dark","Rain/Snow",5,0
+"502","Weekend","Midday","Unknown","Other","Dark","Rain/Snow",2,0
+"503","Weekday","Evening","Unknown","Other","Dark","Rain/Snow",5,3
+"504","Weekend","Evening","Unknown","Other","Dark","Rain/Snow",2,0
+"505","Weekday","Night","No Control","Dry","Unknown","Rain/Snow",5,1
+"506","Weekend","Night","No Control","Dry","Unknown","Rain/Snow",2,0
+"507","Weekday","Morning","No Control","Dry","Unknown","Rain/Snow",5,2
+"508","Weekend","Morning","No Control","Dry","Unknown","Rain/Snow",2,2
+"509","Weekday","Midday","No Control","Dry","Unknown","Rain/Snow",5,0
+"510","Weekend","Midday","No Control","Dry","Unknown","Rain/Snow",2,0
+"511","Weekday","Evening","No Control","Dry","Unknown","Rain/Snow",5,1
+"512","Weekend","Evening","No Control","Dry","Unknown","Rain/Snow",2,0
+"513","Weekday","Night","Control","Dry","Unknown","Rain/Snow",5,0
+"514","Weekend","Night","Control","Dry","Unknown","Rain/Snow",2,0
+"515","Weekday","Morning","Control","Dry","Unknown","Rain/Snow",5,0
+"516","Weekend","Morning","Control","Dry","Unknown","Rain/Snow",2,0
+"517","Weekday","Midday","Control","Dry","Unknown","Rain/Snow",5,2
+"518","Weekend","Midday","Control","Dry","Unknown","Rain/Snow",2,0
+"519","Weekday","Evening","Control","Dry","Unknown","Rain/Snow",5,0
+"520","Weekend","Evening","Control","Dry","Unknown","Rain/Snow",2,0
+"521","Weekday","Night","Unknown","Dry","Unknown","Rain/Snow",5,1
+"522","Weekend","Night","Unknown","Dry","Unknown","Rain/Snow",2,0
+"523","Weekday","Morning","Unknown","Dry","Unknown","Rain/Snow",5,0
+"524","Weekend","Morning","Unknown","Dry","Unknown","Rain/Snow",2,0
+"525","Weekday","Midday","Unknown","Dry","Unknown","Rain/Snow",5,0
+"526","Weekend","Midday","Unknown","Dry","Unknown","Rain/Snow",2,0
+"527","Weekday","Evening","Unknown","Dry","Unknown","Rain/Snow",5,0
+"528","Weekend","Evening","Unknown","Dry","Unknown","Rain/Snow",2,1
+"529","Weekday","Night","No Control","Wet","Unknown","Rain/Snow",5,21
+"530","Weekend","Night","No Control","Wet","Unknown","Rain/Snow",2,14
+"531","Weekday","Morning","No Control","Wet","Unknown","Rain/Snow",5,43
+"532","Weekend","Morning","No Control","Wet","Unknown","Rain/Snow",2,27
+"533","Weekday","Midday","No Control","Wet","Unknown","Rain/Snow",5,23
+"534","Weekend","Midday","No Control","Wet","Unknown","Rain/Snow",2,9
+"535","Weekday","Evening","No Control","Wet","Unknown","Rain/Snow",5,30
+"536","Weekend","Evening","No Control","Wet","Unknown","Rain/Snow",2,14
+"537","Weekday","Night","Control","Wet","Unknown","Rain/Snow",5,6
+"538","Weekend","Night","Control","Wet","Unknown","Rain/Snow",2,1
+"539","Weekday","Morning","Control","Wet","Unknown","Rain/Snow",5,10
+"540","Weekend","Morning","Control","Wet","Unknown","Rain/Snow",2,1
+"541","Weekday","Midday","Control","Wet","Unknown","Rain/Snow",5,7
+"542","Weekend","Midday","Control","Wet","Unknown","Rain/Snow",2,2
+"543","Weekday","Evening","Control","Wet","Unknown","Rain/Snow",5,9
+"544","Weekend","Evening","Control","Wet","Unknown","Rain/Snow",2,4
+"545","Weekday","Night","Unknown","Wet","Unknown","Rain/Snow",5,3
+"546","Weekend","Night","Unknown","Wet","Unknown","Rain/Snow",2,3
+"547","Weekday","Morning","Unknown","Wet","Unknown","Rain/Snow",5,2
+"548","Weekend","Morning","Unknown","Wet","Unknown","Rain/Snow",2,2
+"549","Weekday","Midday","Unknown","Wet","Unknown","Rain/Snow",5,5
+"550","Weekend","Midday","Unknown","Wet","Unknown","Rain/Snow",2,2
+"551","Weekday","Evening","Unknown","Wet","Unknown","Rain/Snow",5,3
+"552","Weekend","Evening","Unknown","Wet","Unknown","Rain/Snow",2,0
+"553","Weekday","Night","No Control","Other","Unknown","Rain/Snow",5,2
+"554","Weekend","Night","No Control","Other","Unknown","Rain/Snow",2,0
+"555","Weekday","Morning","No Control","Other","Unknown","Rain/Snow",5,1
+"556","Weekend","Morning","No Control","Other","Unknown","Rain/Snow",2,2
+"557","Weekday","Midday","No Control","Other","Unknown","Rain/Snow",5,1
+"558","Weekend","Midday","No Control","Other","Unknown","Rain/Snow",2,2
+"559","Weekday","Evening","No Control","Other","Unknown","Rain/Snow",5,3
+"560","Weekend","Evening","No Control","Other","Unknown","Rain/Snow",2,0
+"561","Weekday","Night","Control","Other","Unknown","Rain/Snow",5,0
+"562","Weekend","Night","Control","Other","Unknown","Rain/Snow",2,0
+"563","Weekday","Morning","Control","Other","Unknown","Rain/Snow",5,0
+"564","Weekend","Morning","Control","Other","Unknown","Rain/Snow",2,0
+"565","Weekday","Midday","Control","Other","Unknown","Rain/Snow",5,2
+"566","Weekend","Midday","Control","Other","Unknown","Rain/Snow",2,1
+"567","Weekday","Evening","Control","Other","Unknown","Rain/Snow",5,0
+"568","Weekend","Evening","Control","Other","Unknown","Rain/Snow",2,0
+"569","Weekday","Night","Unknown","Other","Unknown","Rain/Snow",5,1
+"570","Weekend","Night","Unknown","Other","Unknown","Rain/Snow",2,3
+"571","Weekday","Morning","Unknown","Other","Unknown","Rain/Snow",5,1
+"572","Weekend","Morning","Unknown","Other","Unknown","Rain/Snow",2,0
+"573","Weekday","Midday","Unknown","Other","Unknown","Rain/Snow",5,0
+"574","Weekend","Midday","Unknown","Other","Unknown","Rain/Snow",2,0
+"575","Weekday","Evening","Unknown","Other","Unknown","Rain/Snow",5,1
+"576","Weekend","Evening","Unknown","Other","Unknown","Rain/Snow",2,0
+"577","Weekday","Night","No Control","Dry","Daylight","Poor Visibilty",5,1
+"578","Weekend","Night","No Control","Dry","Daylight","Poor Visibilty",2,1
+"579","Weekday","Morning","No Control","Dry","Daylight","Poor Visibilty",5,115
+"580","Weekend","Morning","No Control","Dry","Daylight","Poor Visibilty",2,17
+"581","Weekday","Midday","No Control","Dry","Daylight","Poor Visibilty",5,137
+"582","Weekend","Midday","No Control","Dry","Daylight","Poor Visibilty",2,42
+"583","Weekday","Evening","No Control","Dry","Daylight","Poor Visibilty",5,68
+"584","Weekend","Evening","No Control","Dry","Daylight","Poor Visibilty",2,18
+"585","Weekday","Night","Control","Dry","Daylight","Poor Visibilty",5,7
+"586","Weekend","Night","Control","Dry","Daylight","Poor Visibilty",2,2
+"587","Weekday","Morning","Control","Dry","Daylight","Poor Visibilty",5,117
+"588","Weekend","Morning","Control","Dry","Daylight","Poor Visibilty",2,18
+"589","Weekday","Midday","Control","Dry","Daylight","Poor Visibilty",5,139
+"590","Weekend","Midday","Control","Dry","Daylight","Poor Visibilty",2,38
+"591","Weekday","Evening","Control","Dry","Daylight","Poor Visibilty",5,59
+"592","Weekend","Evening","Control","Dry","Daylight","Poor Visibilty",2,12
+"593","Weekday","Night","Unknown","Dry","Daylight","Poor Visibilty",5,1
+"594","Weekend","Night","Unknown","Dry","Daylight","Poor Visibilty",2,0
+"595","Weekday","Morning","Unknown","Dry","Daylight","Poor Visibilty",5,4
+"596","Weekend","Morning","Unknown","Dry","Daylight","Poor Visibilty",2,0
+"597","Weekday","Midday","Unknown","Dry","Daylight","Poor Visibilty",5,6
+"598","Weekend","Midday","Unknown","Dry","Daylight","Poor Visibilty",2,2
+"599","Weekday","Evening","Unknown","Dry","Daylight","Poor Visibilty",5,3
+"600","Weekend","Evening","Unknown","Dry","Daylight","Poor Visibilty",2,2
+"601","Weekday","Night","No Control","Wet","Daylight","Poor Visibilty",5,1
+"602","Weekend","Night","No Control","Wet","Daylight","Poor Visibilty",2,1
+"603","Weekday","Morning","No Control","Wet","Daylight","Poor Visibilty",5,83
+"604","Weekend","Morning","No Control","Wet","Daylight","Poor Visibilty",2,13
+"605","Weekday","Midday","No Control","Wet","Daylight","Poor Visibilty",5,55
+"606","Weekend","Midday","No Control","Wet","Daylight","Poor Visibilty",2,23
+"607","Weekday","Evening","No Control","Wet","Daylight","Poor Visibilty",5,17
+"608","Weekend","Evening","No Control","Wet","Daylight","Poor Visibilty",2,5
+"609","Weekday","Night","Control","Wet","Daylight","Poor Visibilty",5,3
+"610","Weekend","Night","Control","Wet","Daylight","Poor Visibilty",2,0
+"611","Weekday","Morning","Control","Wet","Daylight","Poor Visibilty",5,58
+"612","Weekend","Morning","Control","Wet","Daylight","Poor Visibilty",2,8
+"613","Weekday","Midday","Control","Wet","Daylight","Poor Visibilty",5,50
+"614","Weekend","Midday","Control","Wet","Daylight","Poor Visibilty",2,22
+"615","Weekday","Evening","Control","Wet","Daylight","Poor Visibilty",5,19
+"616","Weekend","Evening","Control","Wet","Daylight","Poor Visibilty",2,4
+"617","Weekday","Night","Unknown","Wet","Daylight","Poor Visibilty",5,0
+"618","Weekend","Night","Unknown","Wet","Daylight","Poor Visibilty",2,0
+"619","Weekday","Morning","Unknown","Wet","Daylight","Poor Visibilty",5,2
+"620","Weekend","Morning","Unknown","Wet","Daylight","Poor Visibilty",2,0
+"621","Weekday","Midday","Unknown","Wet","Daylight","Poor Visibilty",5,2
+"622","Weekend","Midday","Unknown","Wet","Daylight","Poor Visibilty",2,0
+"623","Weekday","Evening","Unknown","Wet","Daylight","Poor Visibilty",5,1
+"624","Weekend","Evening","Unknown","Wet","Daylight","Poor Visibilty",2,1
+"625","Weekday","Night","No Control","Other","Daylight","Poor Visibilty",5,1
+"626","Weekend","Night","No Control","Other","Daylight","Poor Visibilty",2,0
+"627","Weekday","Morning","No Control","Other","Daylight","Poor Visibilty",5,12
+"628","Weekend","Morning","No Control","Other","Daylight","Poor Visibilty",2,1
+"629","Weekday","Midday","No Control","Other","Daylight","Poor Visibilty",5,19
+"630","Weekend","Midday","No Control","Other","Daylight","Poor Visibilty",2,7
+"631","Weekday","Evening","No Control","Other","Daylight","Poor Visibilty",5,9
+"632","Weekend","Evening","No Control","Other","Daylight","Poor Visibilty",2,0
+"633","Weekday","Night","Control","Other","Daylight","Poor Visibilty",5,0
+"634","Weekend","Night","Control","Other","Daylight","Poor Visibilty",2,0
+"635","Weekday","Morning","Control","Other","Daylight","Poor Visibilty",5,7
+"636","Weekend","Morning","Control","Other","Daylight","Poor Visibilty",2,1
+"637","Weekday","Midday","Control","Other","Daylight","Poor Visibilty",5,12
+"638","Weekend","Midday","Control","Other","Daylight","Poor Visibilty",2,4
+"639","Weekday","Evening","Control","Other","Daylight","Poor Visibilty",5,8
+"640","Weekend","Evening","Control","Other","Daylight","Poor Visibilty",2,4
+"641","Weekday","Night","Unknown","Other","Daylight","Poor Visibilty",5,0
+"642","Weekend","Night","Unknown","Other","Daylight","Poor Visibilty",2,0
+"643","Weekday","Morning","Unknown","Other","Daylight","Poor Visibilty",5,0
+"644","Weekend","Morning","Unknown","Other","Daylight","Poor Visibilty",2,0
+"645","Weekday","Midday","Unknown","Other","Daylight","Poor Visibilty",5,3
+"646","Weekend","Midday","Unknown","Other","Daylight","Poor Visibilty",2,0
+"647","Weekday","Evening","Unknown","Other","Daylight","Poor Visibilty",5,3
+"648","Weekend","Evening","Unknown","Other","Daylight","Poor Visibilty",2,0
+"649","Weekday","Night","No Control","Dry","Dawn/Dusk","Poor Visibilty",5,2
+"650","Weekend","Night","No Control","Dry","Dawn/Dusk","Poor Visibilty",2,2
+"651","Weekday","Morning","No Control","Dry","Dawn/Dusk","Poor Visibilty",5,2
+"652","Weekend","Morning","No Control","Dry","Dawn/Dusk","Poor Visibilty",2,1
+"653","Weekday","Midday","No Control","Dry","Dawn/Dusk","Poor Visibilty",5,0
+"654","Weekend","Midday","No Control","Dry","Dawn/Dusk","Poor Visibilty",2,0
+"655","Weekday","Evening","No Control","Dry","Dawn/Dusk","Poor Visibilty",5,18
+"656","Weekend","Evening","No Control","Dry","Dawn/Dusk","Poor Visibilty",2,2
+"657","Weekday","Night","Control","Dry","Dawn/Dusk","Poor Visibilty",5,0
+"658","Weekend","Night","Control","Dry","Dawn/Dusk","Poor Visibilty",2,4
+"659","Weekday","Morning","Control","Dry","Dawn/Dusk","Poor Visibilty",5,8
+"660","Weekend","Morning","Control","Dry","Dawn/Dusk","Poor Visibilty",2,0
+"661","Weekday","Midday","Control","Dry","Dawn/Dusk","Poor Visibilty",5,1
+"662","Weekend","Midday","Control","Dry","Dawn/Dusk","Poor Visibilty",2,1
+"663","Weekday","Evening","Control","Dry","Dawn/Dusk","Poor Visibilty",5,8
+"664","Weekend","Evening","Control","Dry","Dawn/Dusk","Poor Visibilty",2,1
+"665","Weekday","Night","Unknown","Dry","Dawn/Dusk","Poor Visibilty",5,0
+"666","Weekend","Night","Unknown","Dry","Dawn/Dusk","Poor Visibilty",2,0
+"667","Weekday","Morning","Unknown","Dry","Dawn/Dusk","Poor Visibilty",5,0
+"668","Weekend","Morning","Unknown","Dry","Dawn/Dusk","Poor Visibilty",2,0
+"669","Weekday","Midday","Unknown","Dry","Dawn/Dusk","Poor Visibilty",5,1
+"670","Weekend","Midday","Unknown","Dry","Dawn/Dusk","Poor Visibilty",2,0
+"671","Weekday","Evening","Unknown","Dry","Dawn/Dusk","Poor Visibilty",5,0
+"672","Weekend","Evening","Unknown","Dry","Dawn/Dusk","Poor Visibilty",2,0
+"673","Weekday","Night","No Control","Wet","Dawn/Dusk","Poor Visibilty",5,1
+"674","Weekend","Night","No Control","Wet","Dawn/Dusk","Poor Visibilty",2,0
+"675","Weekday","Morning","No Control","Wet","Dawn/Dusk","Poor Visibilty",5,5
+"676","Weekend","Morning","No Control","Wet","Dawn/Dusk","Poor Visibilty",2,0
+"677","Weekday","Midday","No Control","Wet","Dawn/Dusk","Poor Visibilty",5,0
+"678","Weekend","Midday","No Control","Wet","Dawn/Dusk","Poor Visibilty",2,1
+"679","Weekday","Evening","No Control","Wet","Dawn/Dusk","Poor Visibilty",5,7
+"680","Weekend","Evening","No Control","Wet","Dawn/Dusk","Poor Visibilty",2,0
+"681","Weekday","Night","Control","Wet","Dawn/Dusk","Poor Visibilty",5,0
+"682","Weekend","Night","Control","Wet","Dawn/Dusk","Poor Visibilty",2,1
+"683","Weekday","Morning","Control","Wet","Dawn/Dusk","Poor Visibilty",5,6
+"684","Weekend","Morning","Control","Wet","Dawn/Dusk","Poor Visibilty",2,0
+"685","Weekday","Midday","Control","Wet","Dawn/Dusk","Poor Visibilty",5,3
+"686","Weekend","Midday","Control","Wet","Dawn/Dusk","Poor Visibilty",2,0
+"687","Weekday","Evening","Control","Wet","Dawn/Dusk","Poor Visibilty",5,2
+"688","Weekend","Evening","Control","Wet","Dawn/Dusk","Poor Visibilty",2,3
+"689","Weekday","Night","Unknown","Wet","Dawn/Dusk","Poor Visibilty",5,0
+"690","Weekend","Night","Unknown","Wet","Dawn/Dusk","Poor Visibilty",2,0
+"691","Weekday","Morning","Unknown","Wet","Dawn/Dusk","Poor Visibilty",5,0
+"692","Weekend","Morning","Unknown","Wet","Dawn/Dusk","Poor Visibilty",2,0
+"693","Weekday","Midday","Unknown","Wet","Dawn/Dusk","Poor Visibilty",5,0
+"694","Weekend","Midday","Unknown","Wet","Dawn/Dusk","Poor Visibilty",2,0
+"695","Weekday","Evening","Unknown","Wet","Dawn/Dusk","Poor Visibilty",5,0
+"696","Weekend","Evening","Unknown","Wet","Dawn/Dusk","Poor Visibilty",2,0
+"697","Weekday","Night","No Control","Other","Dawn/Dusk","Poor Visibilty",5,1
+"698","Weekend","Night","No Control","Other","Dawn/Dusk","Poor Visibilty",2,0
+"699","Weekday","Morning","No Control","Other","Dawn/Dusk","Poor Visibilty",5,2
+"700","Weekend","Morning","No Control","Other","Dawn/Dusk","Poor Visibilty",2,0
+"701","Weekday","Midday","No Control","Other","Dawn/Dusk","Poor Visibilty",5,0
+"702","Weekend","Midday","No Control","Other","Dawn/Dusk","Poor Visibilty",2,0
+"703","Weekday","Evening","No Control","Other","Dawn/Dusk","Poor Visibilty",5,1
+"704","Weekend","Evening","No Control","Other","Dawn/Dusk","Poor Visibilty",2,2
+"705","Weekday","Night","Control","Other","Dawn/Dusk","Poor Visibilty",5,0
+"706","Weekend","Night","Control","Other","Dawn/Dusk","Poor Visibilty",2,1
+"707","Weekday","Morning","Control","Other","Dawn/Dusk","Poor Visibilty",5,1
+"708","Weekend","Morning","Control","Other","Dawn/Dusk","Poor Visibilty",2,0
+"709","Weekday","Midday","Control","Other","Dawn/Dusk","Poor Visibilty",5,0
+"710","Weekend","Midday","Control","Other","Dawn/Dusk","Poor Visibilty",2,0
+"711","Weekday","Evening","Control","Other","Dawn/Dusk","Poor Visibilty",5,3
+"712","Weekend","Evening","Control","Other","Dawn/Dusk","Poor Visibilty",2,1
+"713","Weekday","Night","Unknown","Other","Dawn/Dusk","Poor Visibilty",5,0
+"714","Weekend","Night","Unknown","Other","Dawn/Dusk","Poor Visibilty",2,0
+"715","Weekday","Morning","Unknown","Other","Dawn/Dusk","Poor Visibilty",5,0
+"716","Weekend","Morning","Unknown","Other","Dawn/Dusk","Poor Visibilty",2,0
+"717","Weekday","Midday","Unknown","Other","Dawn/Dusk","Poor Visibilty",5,0
+"718","Weekend","Midday","Unknown","Other","Dawn/Dusk","Poor Visibilty",2,0
+"719","Weekday","Evening","Unknown","Other","Dawn/Dusk","Poor Visibilty",5,0
+"720","Weekend","Evening","Unknown","Other","Dawn/Dusk","Poor Visibilty",2,0
+"721","Weekday","Night","No Control","Dry","Dark","Poor Visibilty",5,30
+"722","Weekend","Night","No Control","Dry","Dark","Poor Visibilty",2,24
+"723","Weekday","Morning","No Control","Dry","Dark","Poor Visibilty",5,2
+"724","Weekend","Morning","No Control","Dry","Dark","Poor Visibilty",2,1
+"725","Weekday","Midday","No Control","Dry","Dark","Poor Visibilty",5,1
+"726","Weekend","Midday","No Control","Dry","Dark","Poor Visibilty",2,0
+"727","Weekday","Evening","No Control","Dry","Dark","Poor Visibilty",5,28
+"728","Weekend","Evening","No Control","Dry","Dark","Poor Visibilty",2,10
+"729","Weekday","Night","Control","Dry","Dark","Poor Visibilty",5,19
+"730","Weekend","Night","Control","Dry","Dark","Poor Visibilty",2,16
+"731","Weekday","Morning","Control","Dry","Dark","Poor Visibilty",5,2
+"732","Weekend","Morning","Control","Dry","Dark","Poor Visibilty",2,0
+"733","Weekday","Midday","Control","Dry","Dark","Poor Visibilty",5,2
+"734","Weekend","Midday","Control","Dry","Dark","Poor Visibilty",2,0
+"735","Weekday","Evening","Control","Dry","Dark","Poor Visibilty",5,13
+"736","Weekend","Evening","Control","Dry","Dark","Poor Visibilty",2,6
+"737","Weekday","Night","Unknown","Dry","Dark","Poor Visibilty",5,2
+"738","Weekend","Night","Unknown","Dry","Dark","Poor Visibilty",2,2
+"739","Weekday","Morning","Unknown","Dry","Dark","Poor Visibilty",5,0
+"740","Weekend","Morning","Unknown","Dry","Dark","Poor Visibilty",2,0
+"741","Weekday","Midday","Unknown","Dry","Dark","Poor Visibilty",5,0
+"742","Weekend","Midday","Unknown","Dry","Dark","Poor Visibilty",2,0
+"743","Weekday","Evening","Unknown","Dry","Dark","Poor Visibilty",5,0
+"744","Weekend","Evening","Unknown","Dry","Dark","Poor Visibilty",2,1
+"745","Weekday","Night","No Control","Wet","Dark","Poor Visibilty",5,29
+"746","Weekend","Night","No Control","Wet","Dark","Poor Visibilty",2,29
+"747","Weekday","Morning","No Control","Wet","Dark","Poor Visibilty",5,4
+"748","Weekend","Morning","No Control","Wet","Dark","Poor Visibilty",2,2
+"749","Weekday","Midday","No Control","Wet","Dark","Poor Visibilty",5,0
+"750","Weekend","Midday","No Control","Wet","Dark","Poor Visibilty",2,0
+"751","Weekday","Evening","No Control","Wet","Dark","Poor Visibilty",5,19
+"752","Weekend","Evening","No Control","Wet","Dark","Poor Visibilty",2,8
+"753","Weekday","Night","Control","Wet","Dark","Poor Visibilty",5,24
+"754","Weekend","Night","Control","Wet","Dark","Poor Visibilty",2,15
+"755","Weekday","Morning","Control","Wet","Dark","Poor Visibilty",5,4
+"756","Weekend","Morning","Control","Wet","Dark","Poor Visibilty",2,0
+"757","Weekday","Midday","Control","Wet","Dark","Poor Visibilty",5,3
+"758","Weekend","Midday","Control","Wet","Dark","Poor Visibilty",2,1
+"759","Weekday","Evening","Control","Wet","Dark","Poor Visibilty",5,18
+"760","Weekend","Evening","Control","Wet","Dark","Poor Visibilty",2,9
+"761","Weekday","Night","Unknown","Wet","Dark","Poor Visibilty",5,1
+"762","Weekend","Night","Unknown","Wet","Dark","Poor Visibilty",2,3
+"763","Weekday","Morning","Unknown","Wet","Dark","Poor Visibilty",5,0
+"764","Weekend","Morning","Unknown","Wet","Dark","Poor Visibilty",2,0
+"765","Weekday","Midday","Unknown","Wet","Dark","Poor Visibilty",5,0
+"766","Weekend","Midday","Unknown","Wet","Dark","Poor Visibilty",2,0
+"767","Weekday","Evening","Unknown","Wet","Dark","Poor Visibilty",5,0
+"768","Weekend","Evening","Unknown","Wet","Dark","Poor Visibilty",2,1
+"769","Weekday","Night","No Control","Other","Dark","Poor Visibilty",5,6
+"770","Weekend","Night","No Control","Other","Dark","Poor Visibilty",2,2
+"771","Weekday","Morning","No Control","Other","Dark","Poor Visibilty",5,1
+"772","Weekend","Morning","No Control","Other","Dark","Poor Visibilty",2,0
+"773","Weekday","Midday","No Control","Other","Dark","Poor Visibilty",5,0
+"774","Weekend","Midday","No Control","Other","Dark","Poor Visibilty",2,0
+"775","Weekday","Evening","No Control","Other","Dark","Poor Visibilty",5,8
+"776","Weekend","Evening","No Control","Other","Dark","Poor Visibilty",2,6
+"777","Weekday","Night","Control","Other","Dark","Poor Visibilty",5,3
+"778","Weekend","Night","Control","Other","Dark","Poor Visibilty",2,2
+"779","Weekday","Morning","Control","Other","Dark","Poor Visibilty",5,0
+"780","Weekend","Morning","Control","Other","Dark","Poor Visibilty",2,1
+"781","Weekday","Midday","Control","Other","Dark","Poor Visibilty",5,0
+"782","Weekend","Midday","Control","Other","Dark","Poor Visibilty",2,0
+"783","Weekday","Evening","Control","Other","Dark","Poor Visibilty",5,5
+"784","Weekend","Evening","Control","Other","Dark","Poor Visibilty",2,1
+"785","Weekday","Night","Unknown","Other","Dark","Poor Visibilty",5,1
+"786","Weekend","Night","Unknown","Other","Dark","Poor Visibilty",2,1
+"787","Weekday","Morning","Unknown","Other","Dark","Poor Visibilty",5,0
+"788","Weekend","Morning","Unknown","Other","Dark","Poor Visibilty",2,0
+"789","Weekday","Midday","Unknown","Other","Dark","Poor Visibilty",5,0
+"790","Weekend","Midday","Unknown","Other","Dark","Poor Visibilty",2,0
+"791","Weekday","Evening","Unknown","Other","Dark","Poor Visibilty",5,2
+"792","Weekend","Evening","Unknown","Other","Dark","Poor Visibilty",2,0
+"793","Weekday","Night","No Control","Dry","Unknown","Poor Visibilty",5,0
+"794","Weekend","Night","No Control","Dry","Unknown","Poor Visibilty",2,0
+"795","Weekday","Morning","No Control","Dry","Unknown","Poor Visibilty",5,2
+"796","Weekend","Morning","No Control","Dry","Unknown","Poor Visibilty",2,0
+"797","Weekday","Midday","No Control","Dry","Unknown","Poor Visibilty",5,2
+"798","Weekend","Midday","No Control","Dry","Unknown","Poor Visibilty",2,0
+"799","Weekday","Evening","No Control","Dry","Unknown","Poor Visibilty",5,1
+"800","Weekend","Evening","No Control","Dry","Unknown","Poor Visibilty",2,2
+"801","Weekday","Night","Control","Dry","Unknown","Poor Visibilty",5,0
+"802","Weekend","Night","Control","Dry","Unknown","Poor Visibilty",2,0
+"803","Weekday","Morning","Control","Dry","Unknown","Poor Visibilty",5,0
+"804","Weekend","Morning","Control","Dry","Unknown","Poor Visibilty",2,0
+"805","Weekday","Midday","Control","Dry","Unknown","Poor Visibilty",5,1
+"806","Weekend","Midday","Control","Dry","Unknown","Poor Visibilty",2,0
+"807","Weekday","Evening","Control","Dry","Unknown","Poor Visibilty",5,1
+"808","Weekend","Evening","Control","Dry","Unknown","Poor Visibilty",2,1
+"809","Weekday","Night","Unknown","Dry","Unknown","Poor Visibilty",5,0
+"810","Weekend","Night","Unknown","Dry","Unknown","Poor Visibilty",2,0
+"811","Weekday","Morning","Unknown","Dry","Unknown","Poor Visibilty",5,1
+"812","Weekend","Morning","Unknown","Dry","Unknown","Poor Visibilty",2,0
+"813","Weekday","Midday","Unknown","Dry","Unknown","Poor Visibilty",5,1
+"814","Weekend","Midday","Unknown","Dry","Unknown","Poor Visibilty",2,0
+"815","Weekday","Evening","Unknown","Dry","Unknown","Poor Visibilty",5,2
+"816","Weekend","Evening","Unknown","Dry","Unknown","Poor Visibilty",2,0
+"817","Weekday","Night","No Control","Wet","Unknown","Poor Visibilty",5,1
+"818","Weekend","Night","No Control","Wet","Unknown","Poor Visibilty",2,0
+"819","Weekday","Morning","No Control","Wet","Unknown","Poor Visibilty",5,0
+"820","Weekend","Morning","No Control","Wet","Unknown","Poor Visibilty",2,0
+"821","Weekday","Midday","No Control","Wet","Unknown","Poor Visibilty",5,1
+"822","Weekend","Midday","No Control","Wet","Unknown","Poor Visibilty",2,1
+"823","Weekday","Evening","No Control","Wet","Unknown","Poor Visibilty",5,0
+"824","Weekend","Evening","No Control","Wet","Unknown","Poor Visibilty",2,0
+"825","Weekday","Night","Control","Wet","Unknown","Poor Visibilty",5,0
+"826","Weekend","Night","Control","Wet","Unknown","Poor Visibilty",2,0
+"827","Weekday","Morning","Control","Wet","Unknown","Poor Visibilty",5,1
+"828","Weekend","Morning","Control","Wet","Unknown","Poor Visibilty",2,0
+"829","Weekday","Midday","Control","Wet","Unknown","Poor Visibilty",5,0
+"830","Weekend","Midday","Control","Wet","Unknown","Poor Visibilty",2,0
+"831","Weekday","Evening","Control","Wet","Unknown","Poor Visibilty",5,0
+"832","Weekend","Evening","Control","Wet","Unknown","Poor Visibilty",2,0
+"833","Weekday","Night","Unknown","Wet","Unknown","Poor Visibilty",5,1
+"834","Weekend","Night","Unknown","Wet","Unknown","Poor Visibilty",2,0
+"835","Weekday","Morning","Unknown","Wet","Unknown","Poor Visibilty",5,0
+"836","Weekend","Morning","Unknown","Wet","Unknown","Poor Visibilty",2,0
+"837","Weekday","Midday","Unknown","Wet","Unknown","Poor Visibilty",5,0
+"838","Weekend","Midday","Unknown","Wet","Unknown","Poor Visibilty",2,0
+"839","Weekday","Evening","Unknown","Wet","Unknown","Poor Visibilty",5,1
+"840","Weekend","Evening","Unknown","Wet","Unknown","Poor Visibilty",2,0
+"841","Weekday","Night","No Control","Other","Unknown","Poor Visibilty",5,0
+"842","Weekend","Night","No Control","Other","Unknown","Poor Visibilty",2,0
+"843","Weekday","Morning","No Control","Other","Unknown","Poor Visibilty",5,0
+"844","Weekend","Morning","No Control","Other","Unknown","Poor Visibilty",2,0
+"845","Weekday","Midday","No Control","Other","Unknown","Poor Visibilty",5,1
+"846","Weekend","Midday","No Control","Other","Unknown","Poor Visibilty",2,0
+"847","Weekday","Evening","No Control","Other","Unknown","Poor Visibilty",5,1
+"848","Weekend","Evening","No Control","Other","Unknown","Poor Visibilty",2,0
+"849","Weekday","Night","Control","Other","Unknown","Poor Visibilty",5,0
+"850","Weekend","Night","Control","Other","Unknown","Poor Visibilty",2,0
+"851","Weekday","Morning","Control","Other","Unknown","Poor Visibilty",5,0
+"852","Weekend","Morning","Control","Other","Unknown","Poor Visibilty",2,0
+"853","Weekday","Midday","Control","Other","Unknown","Poor Visibilty",5,0
+"854","Weekend","Midday","Control","Other","Unknown","Poor Visibilty",2,0
+"855","Weekday","Evening","Control","Other","Unknown","Poor Visibilty",5,0
+"856","Weekend","Evening","Control","Other","Unknown","Poor Visibilty",2,0
+"857","Weekday","Night","Unknown","Other","Unknown","Poor Visibilty",5,0
+"858","Weekend","Night","Unknown","Other","Unknown","Poor Visibilty",2,0
+"859","Weekday","Morning","Unknown","Other","Unknown","Poor Visibilty",5,1
+"860","Weekend","Morning","Unknown","Other","Unknown","Poor Visibilty",2,0
+"861","Weekday","Midday","Unknown","Other","Unknown","Poor Visibilty",5,0
+"862","Weekend","Midday","Unknown","Other","Unknown","Poor Visibilty",2,0
+"863","Weekday","Evening","Unknown","Other","Unknown","Poor Visibilty",5,2
+"864","Weekend","Evening","Unknown","Other","Unknown","Poor Visibilty",2,0
+"865","Weekday","Night","No Control","Dry","Daylight","Other",5,4
+"866","Weekend","Night","No Control","Dry","Daylight","Other",2,3
+"867","Weekday","Morning","No Control","Dry","Daylight","Other",5,36
+"868","Weekend","Morning","No Control","Dry","Daylight","Other",2,7
+"869","Weekday","Midday","No Control","Dry","Daylight","Other",5,34
+"870","Weekend","Midday","No Control","Dry","Daylight","Other",2,29
+"871","Weekday","Evening","No Control","Dry","Daylight","Other",5,27
+"872","Weekend","Evening","No Control","Dry","Daylight","Other",2,4
+"873","Weekday","Night","Control","Dry","Daylight","Other",5,2
+"874","Weekend","Night","Control","Dry","Daylight","Other",2,0
+"875","Weekday","Morning","Control","Dry","Daylight","Other",5,29
+"876","Weekend","Morning","Control","Dry","Daylight","Other",2,6
+"877","Weekday","Midday","Control","Dry","Daylight","Other",5,36
+"878","Weekend","Midday","Control","Dry","Daylight","Other",2,9
+"879","Weekday","Evening","Control","Dry","Daylight","Other",5,15
+"880","Weekend","Evening","Control","Dry","Daylight","Other",2,5
+"881","Weekday","Night","Unknown","Dry","Daylight","Other",5,3
+"882","Weekend","Night","Unknown","Dry","Daylight","Other",2,0
+"883","Weekday","Morning","Unknown","Dry","Daylight","Other",5,12
+"884","Weekend","Morning","Unknown","Dry","Daylight","Other",2,4
+"885","Weekday","Midday","Unknown","Dry","Daylight","Other",5,17
+"886","Weekend","Midday","Unknown","Dry","Daylight","Other",2,11
+"887","Weekday","Evening","Unknown","Dry","Daylight","Other",5,15
+"888","Weekend","Evening","Unknown","Dry","Daylight","Other",2,2
+"889","Weekday","Night","No Control","Wet","Daylight","Other",5,4
+"890","Weekend","Night","No Control","Wet","Daylight","Other",2,3
+"891","Weekday","Morning","No Control","Wet","Daylight","Other",5,54
+"892","Weekend","Morning","No Control","Wet","Daylight","Other",2,5
+"893","Weekday","Midday","No Control","Wet","Daylight","Other",5,32
+"894","Weekend","Midday","No Control","Wet","Daylight","Other",2,15
+"895","Weekday","Evening","No Control","Wet","Daylight","Other",5,7
+"896","Weekend","Evening","No Control","Wet","Daylight","Other",2,4
+"897","Weekday","Night","Control","Wet","Daylight","Other",5,2
+"898","Weekend","Night","Control","Wet","Daylight","Other",2,1
+"899","Weekday","Morning","Control","Wet","Daylight","Other",5,50
+"900","Weekend","Morning","Control","Wet","Daylight","Other",2,5
+"901","Weekday","Midday","Control","Wet","Daylight","Other",5,28
+"902","Weekend","Midday","Control","Wet","Daylight","Other",2,9
+"903","Weekday","Evening","Control","Wet","Daylight","Other",5,7
+"904","Weekend","Evening","Control","Wet","Daylight","Other",2,4
+"905","Weekday","Night","Unknown","Wet","Daylight","Other",5,0
+"906","Weekend","Night","Unknown","Wet","Daylight","Other",2,0
+"907","Weekday","Morning","Unknown","Wet","Daylight","Other",5,11
+"908","Weekend","Morning","Unknown","Wet","Daylight","Other",2,4
+"909","Weekday","Midday","Unknown","Wet","Daylight","Other",5,9
+"910","Weekend","Midday","Unknown","Wet","Daylight","Other",2,1
+"911","Weekday","Evening","Unknown","Wet","Daylight","Other",5,2
+"912","Weekend","Evening","Unknown","Wet","Daylight","Other",2,0
+"913","Weekday","Night","No Control","Other","Daylight","Other",5,11
+"914","Weekend","Night","No Control","Other","Daylight","Other",2,6
+"915","Weekday","Morning","No Control","Other","Daylight","Other",5,81
+"916","Weekend","Morning","No Control","Other","Daylight","Other",2,22
+"917","Weekday","Midday","No Control","Other","Daylight","Other",5,102
+"918","Weekend","Midday","No Control","Other","Daylight","Other",2,36
+"919","Weekday","Evening","No Control","Other","Daylight","Other",5,62
+"920","Weekend","Evening","No Control","Other","Daylight","Other",2,20
+"921","Weekday","Night","Control","Other","Daylight","Other",5,4
+"922","Weekend","Night","Control","Other","Daylight","Other",2,0
+"923","Weekday","Morning","Control","Other","Daylight","Other",5,95
+"924","Weekend","Morning","Control","Other","Daylight","Other",2,13
+"925","Weekday","Midday","Control","Other","Daylight","Other",5,108
+"926","Weekend","Midday","Control","Other","Daylight","Other",2,36
+"927","Weekday","Evening","Control","Other","Daylight","Other",5,65
+"928","Weekend","Evening","Control","Other","Daylight","Other",2,16
+"929","Weekday","Night","Unknown","Other","Daylight","Other",5,3
+"930","Weekend","Night","Unknown","Other","Daylight","Other",2,5
+"931","Weekday","Morning","Unknown","Other","Daylight","Other",5,31
+"932","Weekend","Morning","Unknown","Other","Daylight","Other",2,5
+"933","Weekday","Midday","Unknown","Other","Daylight","Other",5,59
+"934","Weekend","Midday","Unknown","Other","Daylight","Other",2,12
+"935","Weekday","Evening","Unknown","Other","Daylight","Other",5,31
+"936","Weekend","Evening","Unknown","Other","Daylight","Other",2,7
+"937","Weekday","Night","No Control","Dry","Dawn/Dusk","Other",5,1
+"938","Weekend","Night","No Control","Dry","Dawn/Dusk","Other",2,2
+"939","Weekday","Morning","No Control","Dry","Dawn/Dusk","Other",5,1
+"940","Weekend","Morning","No Control","Dry","Dawn/Dusk","Other",2,0
+"941","Weekday","Midday","No Control","Dry","Dawn/Dusk","Other",5,0
+"942","Weekend","Midday","No Control","Dry","Dawn/Dusk","Other",2,0
+"943","Weekday","Evening","No Control","Dry","Dawn/Dusk","Other",5,8
+"944","Weekend","Evening","No Control","Dry","Dawn/Dusk","Other",2,0
+"945","Weekday","Night","Control","Dry","Dawn/Dusk","Other",5,0
+"946","Weekend","Night","Control","Dry","Dawn/Dusk","Other",2,0
+"947","Weekday","Morning","Control","Dry","Dawn/Dusk","Other",5,1
+"948","Weekend","Morning","Control","Dry","Dawn/Dusk","Other",2,0
+"949","Weekday","Midday","Control","Dry","Dawn/Dusk","Other",5,0
+"950","Weekend","Midday","Control","Dry","Dawn/Dusk","Other",2,0
+"951","Weekday","Evening","Control","Dry","Dawn/Dusk","Other",5,4
+"952","Weekend","Evening","Control","Dry","Dawn/Dusk","Other",2,1
+"953","Weekday","Night","Unknown","Dry","Dawn/Dusk","Other",5,0
+"954","Weekend","Night","Unknown","Dry","Dawn/Dusk","Other",2,1
+"955","Weekday","Morning","Unknown","Dry","Dawn/Dusk","Other",5,1
+"956","Weekend","Morning","Unknown","Dry","Dawn/Dusk","Other",2,1
+"957","Weekday","Midday","Unknown","Dry","Dawn/Dusk","Other",5,0
+"958","Weekend","Midday","Unknown","Dry","Dawn/Dusk","Other",2,0
+"959","Weekday","Evening","Unknown","Dry","Dawn/Dusk","Other",5,0
+"960","Weekend","Evening","Unknown","Dry","Dawn/Dusk","Other",2,2
+"961","Weekday","Night","No Control","Wet","Dawn/Dusk","Other",5,1
+"962","Weekend","Night","No Control","Wet","Dawn/Dusk","Other",2,1
+"963","Weekday","Morning","No Control","Wet","Dawn/Dusk","Other",5,4
+"964","Weekend","Morning","No Control","Wet","Dawn/Dusk","Other",2,1
+"965","Weekday","Midday","No Control","Wet","Dawn/Dusk","Other",5,0
+"966","Weekend","Midday","No Control","Wet","Dawn/Dusk","Other",2,0
+"967","Weekday","Evening","No Control","Wet","Dawn/Dusk","Other",5,5
+"968","Weekend","Evening","No Control","Wet","Dawn/Dusk","Other",2,1
+"969","Weekday","Night","Control","Wet","Dawn/Dusk","Other",5,0
+"970","Weekend","Night","Control","Wet","Dawn/Dusk","Other",2,0
+"971","Weekday","Morning","Control","Wet","Dawn/Dusk","Other",5,4
+"972","Weekend","Morning","Control","Wet","Dawn/Dusk","Other",2,1
+"973","Weekday","Midday","Control","Wet","Dawn/Dusk","Other",5,0
+"974","Weekend","Midday","Control","Wet","Dawn/Dusk","Other",2,0
+"975","Weekday","Evening","Control","Wet","Dawn/Dusk","Other",5,4
+"976","Weekend","Evening","Control","Wet","Dawn/Dusk","Other",2,1
+"977","Weekday","Night","Unknown","Wet","Dawn/Dusk","Other",5,2
+"978","Weekend","Night","Unknown","Wet","Dawn/Dusk","Other",2,1
+"979","Weekday","Morning","Unknown","Wet","Dawn/Dusk","Other",5,0
+"980","Weekend","Morning","Unknown","Wet","Dawn/Dusk","Other",2,0
+"981","Weekday","Midday","Unknown","Wet","Dawn/Dusk","Other",5,1
+"982","Weekend","Midday","Unknown","Wet","Dawn/Dusk","Other",2,0
+"983","Weekday","Evening","Unknown","Wet","Dawn/Dusk","Other",5,1
+"984","Weekend","Evening","Unknown","Wet","Dawn/Dusk","Other",2,1
+"985","Weekday","Night","No Control","Other","Dawn/Dusk","Other",5,2
+"986","Weekend","Night","No Control","Other","Dawn/Dusk","Other",2,3
+"987","Weekday","Morning","No Control","Other","Dawn/Dusk","Other",5,0
+"988","Weekend","Morning","No Control","Other","Dawn/Dusk","Other",2,4
+"989","Weekday","Midday","No Control","Other","Dawn/Dusk","Other",5,2
+"990","Weekend","Midday","No Control","Other","Dawn/Dusk","Other",2,0
+"991","Weekday","Evening","No Control","Other","Dawn/Dusk","Other",5,18
+"992","Weekend","Evening","No Control","Other","Dawn/Dusk","Other",2,3
+"993","Weekday","Night","Control","Other","Dawn/Dusk","Other",5,1
+"994","Weekend","Night","Control","Other","Dawn/Dusk","Other",2,0
+"995","Weekday","Morning","Control","Other","Dawn/Dusk","Other",5,2
+"996","Weekend","Morning","Control","Other","Dawn/Dusk","Other",2,0
+"997","Weekday","Midday","Control","Other","Dawn/Dusk","Other",5,0
+"998","Weekend","Midday","Control","Other","Dawn/Dusk","Other",2,0
+"999","Weekday","Evening","Control","Other","Dawn/Dusk","Other",5,14
+"1000","Weekend","Evening","Control","Other","Dawn/Dusk","Other",2,2
+"1001","Weekday","Night","Unknown","Other","Dawn/Dusk","Other",5,1
+"1002","Weekend","Night","Unknown","Other","Dawn/Dusk","Other",2,2
+"1003","Weekday","Morning","Unknown","Other","Dawn/Dusk","Other",5,1
+"1004","Weekend","Morning","Unknown","Other","Dawn/Dusk","Other",2,0
+"1005","Weekday","Midday","Unknown","Other","Dawn/Dusk","Other",5,1
+"1006","Weekend","Midday","Unknown","Other","Dawn/Dusk","Other",2,0
+"1007","Weekday","Evening","Unknown","Other","Dawn/Dusk","Other",5,6
+"1008","Weekend","Evening","Unknown","Other","Dawn/Dusk","Other",2,0
+"1009","Weekday","Night","No Control","Dry","Dark","Other",5,34
+"1010","Weekend","Night","No Control","Dry","Dark","Other",2,44
+"1011","Weekday","Morning","No Control","Dry","Dark","Other",5,13
+"1012","Weekend","Morning","No Control","Dry","Dark","Other",2,6
+"1013","Weekday","Midday","No Control","Dry","Dark","Other",5,2
+"1014","Weekend","Midday","No Control","Dry","Dark","Other",2,2
+"1015","Weekday","Evening","No Control","Dry","Dark","Other",5,19
+"1016","Weekend","Evening","No Control","Dry","Dark","Other",2,17
+"1017","Weekday","Night","Control","Dry","Dark","Other",5,15
+"1018","Weekend","Night","Control","Dry","Dark","Other",2,16
+"1019","Weekday","Morning","Control","Dry","Dark","Other",5,2
+"1020","Weekend","Morning","Control","Dry","Dark","Other",2,1
+"1021","Weekday","Midday","Control","Dry","Dark","Other",5,1
+"1022","Weekend","Midday","Control","Dry","Dark","Other",2,0
+"1023","Weekday","Evening","Control","Dry","Dark","Other",5,5
+"1024","Weekend","Evening","Control","Dry","Dark","Other",2,5
+"1025","Weekday","Night","Unknown","Dry","Dark","Other",5,10
+"1026","Weekend","Night","Unknown","Dry","Dark","Other",2,8
+"1027","Weekday","Morning","Unknown","Dry","Dark","Other",5,1
+"1028","Weekend","Morning","Unknown","Dry","Dark","Other",2,0
+"1029","Weekday","Midday","Unknown","Dry","Dark","Other",5,2
+"1030","Weekend","Midday","Unknown","Dry","Dark","Other",2,0
+"1031","Weekday","Evening","Unknown","Dry","Dark","Other",5,9
+"1032","Weekend","Evening","Unknown","Dry","Dark","Other",2,2
+"1033","Weekday","Night","No Control","Wet","Dark","Other",5,49
+"1034","Weekend","Night","No Control","Wet","Dark","Other",2,28
+"1035","Weekday","Morning","No Control","Wet","Dark","Other",5,8
+"1036","Weekend","Morning","No Control","Wet","Dark","Other",2,5
+"1037","Weekday","Midday","No Control","Wet","Dark","Other",5,1
+"1038","Weekend","Midday","No Control","Wet","Dark","Other",2,4
+"1039","Weekday","Evening","No Control","Wet","Dark","Other",5,32
+"1040","Weekend","Evening","No Control","Wet","Dark","Other",2,12
+"1041","Weekday","Night","Control","Wet","Dark","Other",5,40
+"1042","Weekend","Night","Control","Wet","Dark","Other",2,11
+"1043","Weekday","Morning","Control","Wet","Dark","Other",5,2
+"1044","Weekend","Morning","Control","Wet","Dark","Other",2,1
+"1045","Weekday","Midday","Control","Wet","Dark","Other",5,0
+"1046","Weekend","Midday","Control","Wet","Dark","Other",2,0
+"1047","Weekday","Evening","Control","Wet","Dark","Other",5,28
+"1048","Weekend","Evening","Control","Wet","Dark","Other",2,9
+"1049","Weekday","Night","Unknown","Wet","Dark","Other",5,8
+"1050","Weekend","Night","Unknown","Wet","Dark","Other",2,4
+"1051","Weekday","Morning","Unknown","Wet","Dark","Other",5,1
+"1052","Weekend","Morning","Unknown","Wet","Dark","Other",2,1
+"1053","Weekday","Midday","Unknown","Wet","Dark","Other",5,0
+"1054","Weekend","Midday","Unknown","Wet","Dark","Other",2,0
+"1055","Weekday","Evening","Unknown","Wet","Dark","Other",5,8
+"1056","Weekend","Evening","Unknown","Wet","Dark","Other",2,1
+"1057","Weekday","Night","No Control","Other","Dark","Other",5,80
+"1058","Weekend","Night","No Control","Other","Dark","Other",2,84
+"1059","Weekday","Morning","No Control","Other","Dark","Other",5,19
+"1060","Weekend","Morning","No Control","Other","Dark","Other",2,13
+"1061","Weekday","Midday","No Control","Other","Dark","Other",5,12
+"1062","Weekend","Midday","No Control","Other","Dark","Other",2,6
+"1063","Weekday","Evening","No Control","Other","Dark","Other",5,51
+"1064","Weekend","Evening","No Control","Other","Dark","Other",2,29
+"1065","Weekday","Night","Control","Other","Dark","Other",5,45
+"1066","Weekend","Night","Control","Other","Dark","Other",2,35
+"1067","Weekday","Morning","Control","Other","Dark","Other",5,4
+"1068","Weekend","Morning","Control","Other","Dark","Other",2,0
+"1069","Weekday","Midday","Control","Other","Dark","Other",5,1
+"1070","Weekend","Midday","Control","Other","Dark","Other",2,0
+"1071","Weekday","Evening","Control","Other","Dark","Other",5,44
+"1072","Weekend","Evening","Control","Other","Dark","Other",2,18
+"1073","Weekday","Night","Unknown","Other","Dark","Other",5,22
+"1074","Weekend","Night","Unknown","Other","Dark","Other",2,20
+"1075","Weekday","Morning","Unknown","Other","Dark","Other",5,1
+"1076","Weekend","Morning","Unknown","Other","Dark","Other",2,1
+"1077","Weekday","Midday","Unknown","Other","Dark","Other",5,3
+"1078","Weekend","Midday","Unknown","Other","Dark","Other",2,2
+"1079","Weekday","Evening","Unknown","Other","Dark","Other",5,24
+"1080","Weekend","Evening","Unknown","Other","Dark","Other",2,5
+"1081","Weekday","Night","No Control","Dry","Unknown","Other",5,26
+"1082","Weekend","Night","No Control","Dry","Unknown","Other",2,9
+"1083","Weekday","Morning","No Control","Dry","Unknown","Other",5,38
+"1084","Weekend","Morning","No Control","Dry","Unknown","Other",2,19
+"1085","Weekday","Midday","No Control","Dry","Unknown","Other",5,25
+"1086","Weekend","Midday","No Control","Dry","Unknown","Other",2,18
+"1087","Weekday","Evening","No Control","Dry","Unknown","Other",5,31
+"1088","Weekend","Evening","No Control","Dry","Unknown","Other",2,13
+"1089","Weekday","Night","Control","Dry","Unknown","Other",5,0
+"1090","Weekend","Night","Control","Dry","Unknown","Other",2,1
+"1091","Weekday","Morning","Control","Dry","Unknown","Other",5,1
+"1092","Weekend","Morning","Control","Dry","Unknown","Other",2,3
+"1093","Weekday","Midday","Control","Dry","Unknown","Other",5,2
+"1094","Weekend","Midday","Control","Dry","Unknown","Other",2,5
+"1095","Weekday","Evening","Control","Dry","Unknown","Other",5,4
+"1096","Weekend","Evening","Control","Dry","Unknown","Other",2,1
+"1097","Weekday","Night","Unknown","Dry","Unknown","Other",5,8
+"1098","Weekend","Night","Unknown","Dry","Unknown","Other",2,5
+"1099","Weekday","Morning","Unknown","Dry","Unknown","Other",5,7
+"1100","Weekend","Morning","Unknown","Dry","Unknown","Other",2,4
+"1101","Weekday","Midday","Unknown","Dry","Unknown","Other",5,9
+"1102","Weekend","Midday","Unknown","Dry","Unknown","Other",2,5
+"1103","Weekday","Evening","Unknown","Dry","Unknown","Other",5,15
+"1104","Weekend","Evening","Unknown","Dry","Unknown","Other",2,6
+"1105","Weekday","Night","No Control","Wet","Unknown","Other",5,12
+"1106","Weekend","Night","No Control","Wet","Unknown","Other",2,10
+"1107","Weekday","Morning","No Control","Wet","Unknown","Other",5,23
+"1108","Weekend","Morning","No Control","Wet","Unknown","Other",2,10
+"1109","Weekday","Midday","No Control","Wet","Unknown","Other",5,12
+"1110","Weekend","Midday","No Control","Wet","Unknown","Other",2,7
+"1111","Weekday","Evening","No Control","Wet","Unknown","Other",5,14
+"1112","Weekend","Evening","No Control","Wet","Unknown","Other",2,11
+"1113","Weekday","Night","Control","Wet","Unknown","Other",5,1
+"1114","Weekend","Night","Control","Wet","Unknown","Other",2,0
+"1115","Weekday","Morning","Control","Wet","Unknown","Other",5,0
+"1116","Weekend","Morning","Control","Wet","Unknown","Other",2,1
+"1117","Weekday","Midday","Control","Wet","Unknown","Other",5,2
+"1118","Weekend","Midday","Control","Wet","Unknown","Other",2,0
+"1119","Weekday","Evening","Control","Wet","Unknown","Other",5,1
+"1120","Weekend","Evening","Control","Wet","Unknown","Other",2,0
+"1121","Weekday","Night","Unknown","Wet","Unknown","Other",5,4
+"1122","Weekend","Night","Unknown","Wet","Unknown","Other",2,0
+"1123","Weekday","Morning","Unknown","Wet","Unknown","Other",5,3
+"1124","Weekend","Morning","Unknown","Wet","Unknown","Other",2,4
+"1125","Weekday","Midday","Unknown","Wet","Unknown","Other",5,3
+"1126","Weekend","Midday","Unknown","Wet","Unknown","Other",2,2
+"1127","Weekday","Evening","Unknown","Wet","Unknown","Other",5,7
+"1128","Weekend","Evening","Unknown","Wet","Unknown","Other",2,2
+"1129","Weekday","Night","No Control","Other","Unknown","Other",5,112
+"1130","Weekend","Night","No Control","Other","Unknown","Other",2,75
+"1131","Weekday","Morning","No Control","Other","Unknown","Other",5,163
+"1132","Weekend","Morning","No Control","Other","Unknown","Other",2,76
+"1133","Weekday","Midday","No Control","Other","Unknown","Other",5,81
+"1134","Weekend","Midday","No Control","Other","Unknown","Other",2,61
+"1135","Weekday","Evening","No Control","Other","Unknown","Other",5,132
+"1136","Weekend","Evening","No Control","Other","Unknown","Other",2,63
+"1137","Weekday","Night","Control","Other","Unknown","Other",5,19
+"1138","Weekend","Night","Control","Other","Unknown","Other",2,18
+"1139","Weekday","Morning","Control","Other","Unknown","Other",5,16
+"1140","Weekend","Morning","Control","Other","Unknown","Other",2,8
+"1141","Weekday","Midday","Control","Other","Unknown","Other",5,33
+"1142","Weekend","Midday","Control","Other","Unknown","Other",2,8
+"1143","Weekday","Evening","Control","Other","Unknown","Other",5,43
+"1144","Weekend","Evening","Control","Other","Unknown","Other",2,9
+"1145","Weekday","Night","Unknown","Other","Unknown","Other",5,77
+"1146","Weekend","Night","Unknown","Other","Unknown","Other",2,68
+"1147","Weekday","Morning","Unknown","Other","Unknown","Other",5,121
+"1148","Weekend","Morning","Unknown","Other","Unknown","Other",2,43
+"1149","Weekday","Midday","Unknown","Other","Unknown","Other",5,253
+"1150","Weekend","Midday","Unknown","Other","Unknown","Other",2,107
+"1151","Weekday","Evening","Unknown","Other","Unknown","Other",5,266
+"1152","Weekend","Evening","Unknown","Other","Unknown","Other",2,83
