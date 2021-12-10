@@ -1,0 +1,11 @@
+library(survival)
+aml
+fit<- survfit(Surv(time,status) ~ x,data=aml)
+summary(fit)
+pdf("c:/users/atamhane/desktop/KMcurves_amldata.pdf", height=6, width=6)
+plot(fit,col=1:2,xlab="Days", ylab="Proportion Surviving")
+legend("topright", paste(" ",c("Maintained","Nonmaintained")), col=1:2,lty=c(1 ,2))
+dev.off()
+survdiff(Surv(time,status) ~x,data=aml)
+fit1 <- coxph(Surv(time, status) ~ x, data=aml)
+summary(fit1)
